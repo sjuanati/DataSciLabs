@@ -73,6 +73,9 @@ print(arr6)
 # output:
 # [[4.5 4.5]
 #  [4.5 4.5]]
+arr60 = np.full(5, 2)
+print(arr60)
+# output: [2 2 2 2 2]
 
 
 """
@@ -227,8 +230,6 @@ no params (it's an attribute instead of method)
 """
 print(matrix.dtype)
 # output: int64
-
-
 
 
 """
