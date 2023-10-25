@@ -1,5 +1,7 @@
 import pandas as pd
 
+# show 2 decimals
+pd.set_option('display.float_format', '{:.2f}'.format)
 
 data = {
     "Company": ["AAPL", "AAPL", "NVDA", "NVDA", "TSLA", "TSLA"],
@@ -15,6 +17,19 @@ df = pd.DataFrame(data)
 # 3    NVDA  Vanessa    124
 # 4    TSLA     Marc    243
 # 5    TSLA    Elena    350
+
+# single aggr
+df["Sales"].max()
+# 350
+
+# multiple aggr
+df["Sales"].apply(["min", "max", "mean", "median", "std", "var"])
+# min        120.00
+# max        350.00
+# mean       229.50
+# median     221.50
+# std        100.90
+# var      10180.70
 
 # average sales by company
 df.groupby("Company")["Sales"].mean()
@@ -49,3 +64,30 @@ df.groupby("Company")["Sales"].agg(lambda x: x.max() - x.min())
 # AAPL     80
 # NVDA    216
 # TSLA    107
+
+
+"""
+Pandas' built-in aggregation methods:
+
+- count(): Count non-NA/null observations.
+- sum(): Sum of values.
+- mean(): Mean of values.
+- median(): Arithmetic median of values.
+- mode(): Mode (most frequent value) of values.
+- std(): Unbiased standard deviation.
+- var(): Unbiased variance.
+- sem(): Unbiased standard error of the mean.
+- skew(): Unbiased skewness (3rd moment).
+- kurt(): Unbiased kurtosis (4th moment).
+- quantile([0.25, 0.75]): Returns values at the given quantile over requested axis, often used to get the IQR (Interquartile Range).
+- min(): Minimum value.
+- max(): Maximum value.
+- abs(): Absolute Value.
+- prod(): Product of values.
+- cumsum(): Cumulative sum.
+- cumprod(): Cumulative product.
+- cummax(): Cumulative maximum.
+- cummin(): Cumulative minimum.
+- nunique(): Number of unique values.
+- value_counts(): Unique values and their counts (this is mainly for Series).
+- """

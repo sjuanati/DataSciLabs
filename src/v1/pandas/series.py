@@ -25,59 +25,57 @@ py_list_labels = ["a", "b", "c"]
 py_dict = {"a": 10, "b": 20, "c": 30}
 np_arr = np.array(py_list_values)
 
-# Serie creation from a py list without labels
+# Series creation from a py list without labels
 s = pd.Series(data=py_list_values)
-print(s)
 # 0    10
 # 1    20
 # 2    30
 # dtype: int64
 
-# Serie creation from a py list with labels
+# Series creation from a py list with labels
 s = pd.Series(data=py_list_values, index=py_list_labels)
 s = pd.Series(py_list_values, py_list_labels)
-print(s)
 # a    10
 # b    20
 # c    30
 # dtype: int64
 
-# Serie creation from a numpy array with labels
+# Series creation from a numpy array with labels
 s = pd.Series(np_arr, py_list_labels)
-print(s)
 # a    10
 # b    20
 # c    30
 # dtype: int64
 
-# Serie creation from a py dictionary
+# Series creation from a py dictionary
 s = pd.Series(py_dict)
-print(s)
 # a    10
 # b    20
 # c    30
 # dtype: int64
 
-# Serie creation with multiple types
+# Series creation with multiple types
 s = pd.Series(data=["a", 3, True])
-print(s)
 # 0    a
 # 1    3
 # 2    True
 # dtype: object
 
+# Select element/s within the Series
+s.loc[2]
+# True
+s[s == 'a']
+# 0    a
 
-# Common use-cases:
 
+# ************* Common use-cases *************
 """
 Data Exploration and Cleaning:
 - Detecting and filling missing values.
 - Converting data types.
 - String operations (capitalizing, lowercasing, stripping whitespace, etc.).
 """
-s = pd.Series(["a", "b", None, "d"])
-s.fillna("c")
-print(s)
+s = pd.Series(["a", "b", None, "d"]).fillna("c")
 # 0    a
 # 1    b
 # 2    None
@@ -89,7 +87,6 @@ Time Series Analysis:
 """
 dates = pd.date_range("20231023", periods=6)
 ts = pd.Series(np.random.randn(6), index=dates)
-print(ts)
 # 2023-10-23    0.132072
 # 2023-10-24    0.584578
 # 2023-10-25    0.688100
@@ -114,9 +111,9 @@ Aggregation and Statistical Operations:
 - Calculating sum, mean, median, standard deviation, etc.
 """
 s = pd.Series([1, 2, 3, 4, 5, 100])
-print("mean", s.mean())  # 19.6 -> (1+2+3+4+5+100)/5
-print("median", s.median())  # 3.5 -> middle number from ordered dataset (or avg of two in the middle if even dataset)
-print("std", s.std()) # 39,6
+s.mean()  # 19.6 -> (1+2+3+4+5+100)/5
+s.median()  # 3.5 -> middle number from ordered dataset (or avg of two in the middle if even dataset)
+s.std()  # 39,6
 
 """
 Boolean Indexing:
@@ -124,7 +121,6 @@ Boolean Indexing:
 """
 s = pd.Series([1, 2, 3, 4, 5])
 even_values = s[s % 2 == 0]
-print(even_values)
 # 1    2
 # 3    4
 
@@ -132,9 +128,7 @@ print(even_values)
 Conversion:
 - Converting Series to other data structures like dictionaries, lists, or arrays.
 """
-s = pd.Series({"a": 1, "b": 2, "c": 3})
-s_dict = s.to_dict()
-print(s_dict)
+s = pd.Series({"a": 1, "b": 2, "c": 3}).to_dict()
 # {'a': 1, 'b': 2, 'c': 3}
 
 """
@@ -143,7 +137,6 @@ Handling Categorical Data:
   or when preparing data for machine learning.
 """
 s = pd.Series(["cat", "dog", "cat", "bird"], dtype="category")
-print(s)
 # 0     cat
 # 1     dog
 # 2     cat
@@ -157,7 +150,6 @@ Vectorized Operations:
 """
 s = pd.Series([1, 2, 3])
 squared = s.apply(lambda x: x**2)
-print(squared)
 # 0    1
 # 1    4
 # 2    9

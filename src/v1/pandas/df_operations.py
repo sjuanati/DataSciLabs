@@ -15,16 +15,21 @@ df = pd.DataFrame(
 # 2     3   666  ghi
 # 3     4   444  xyz
 
-# count total unique values in a column
+# count distinct values in a column
 df["col2"].nunique()
 # 3
 
-# count unique values per colum
+# count values per colum
 df["col2"].value_counts()
 # col2
 # 444    2
 # 555    1
 # 666    1
+
+# count values not repeated (only 1 record) per column
+df_count = df["col2"].value_counts()
+df_count[df_count == 1].count()
+# 2  (555 and 666)
 
 # select data with conditional selections
 df[(df["col1"] > 2) & (df["col2"] == 444)]
@@ -43,6 +48,10 @@ df["col1"].apply(lambda x: x * 2)
 # 1    4
 # 2    6
 # 3    8
+
+# select rows where col3 ends with 'yz'
+# @dev: useful to filter dates with format '10/23', etc
+df[df["col3"].apply(lambda x: x[1:] == "yz")]
 
 # remove columns
 df.drop("col1", axis=1)
@@ -110,7 +119,6 @@ df = pd.DataFrame(data)
 # 5  bar  one  y  1
 
 df_pivot = df.pivot_table(values="D", index=["A", "B"], columns=["C"])
-print(df_pivot)
 # C          x    y
 # A   B
 # bar one  4.0  1.0

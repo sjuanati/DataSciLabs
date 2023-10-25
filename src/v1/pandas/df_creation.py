@@ -19,7 +19,6 @@ args:
 
 # each column is actually a pandas Series
 df1 = pd.DataFrame(randn(5, 4))
-print(df1)
 #           0         1         2         3
 # 0  2.706850  0.628133  0.907969  0.503826
 # 1  0.651118 -0.319318 -0.848077  0.605965
@@ -27,8 +26,29 @@ print(df1)
 # 3  0.188695 -0.758872 -0.933237  0.955057
 # 4  0.190794  1.978757  2.605967  0.683509
 
-print(df1.shape)
+df1.shape
 # (5, 4) => this is why index=0 is rows and index=1 is columns
+
+df1.head(2)  # shows first 2 rows (Default: 5)
+
+df1.tail(3)  # shows last 3 rows (Default: 5)
+
+len(df1.columns)  # shows how many columns: 4
+
+len(df1.index)  # shows how many rows: 5
+
+df1.info()  # DataFrame overview
+# <class 'pandas.core.frame.DataFrame'>
+# RangeIndex: 5 entries, 0 to 4
+# Data columns (total 4 columns):
+#  #   Column  Non-Null Count  Dtype
+# ---  ------  --------------  -----
+#  0   0       5 non-null      float64
+#  1   1       5 non-null      float64
+#  2   2       5 non-null      float64
+#  3   3       5 non-null      float64
+# dtypes: float64(4)
+# memory usage: 292.0 bytes
 
 np.random.seed(
     101
@@ -36,7 +56,6 @@ np.random.seed(
 df = pd.DataFrame(
     data=randn(5, 4), index=["A", "B", "C", "D", "E"], columns=["W", "X", "Y", "Z"]
 )
-print(df)
 #           W         X         Y         Z
 # A  0.302665  1.693723 -1.706086 -1.159119
 # B -0.134841  0.390528  0.166905  0.184502
@@ -45,17 +64,17 @@ print(df)
 # E -0.116773  1.901755  0.238127  1.996652
 
 # show one column -> returns a Serie
-print(df["W"])
+df["W"]
 # A    2.706850
 # B    0.651118
 # C   -2.018168
 # D    0.188695
 # E    0.190794
-print(type(df["W"]))
+type(df["W"])
 # <class 'pandas.core.series.Series'>
 
 # show a list of columns -> returns a DataSet
-print(df[["W", "Z"]])
+df[["W", "Z"]]
 #           W         Z
 # A  2.706850  0.503826
 # B  0.651118  0.605965
@@ -64,25 +83,25 @@ print(df[["W", "Z"]])
 # E  0.190794  0.683509
 
 # show a row by label
-print(df.loc["A"])
+df.loc["A"]
 # W    2.706850
 # X    0.628133
 # Y    0.907969
 # Z    0.503826
 
 # show a row by index
-print(df.iloc[0])
+df.iloc[0]
 # W    2.706850
 # X    0.628133
 # Y    0.907969
 # Z    0.503826
 
 # show a value
-print(df.loc["B", "Y"])  # shows row 'B' column 'Y'
+df.loc["B", "Y"]  # shows row 'B' column 'Y'
 # -0.848
 
 # show a subset of data
-print((df.loc[["A", "B"], ["W", "Y"]]))
+(df.loc[["A", "B"], ["W", "Y"]])
 #           W         Y
 # A  2.706850  0.907969
 # B  0.651118 -0.848077
@@ -99,7 +118,6 @@ df["new"] = df["W"] + df["Y"]
 # drop a column
 # without the inplace=True, the original DS is not modified
 df.drop("new", axis=1, inplace=True)
-print(df)
 #           W         X         Y         Z
 # A  2.706850  0.628133  0.907969  0.503826
 # B  0.651118 -0.319318 -0.848077  0.605965
@@ -109,7 +127,6 @@ print(df)
 
 # drop a row
 df.drop("E", inplace=True)
-print(df)
 #           W         X         Y         Z
 # A  2.706850  0.628133  0.907969  0.503826
 # B  0.651118 -0.319318 -0.848077  0.605965
