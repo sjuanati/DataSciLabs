@@ -3,6 +3,5 @@ venv
 .DS_Store
 __pycache__/
 /logs
-/notebooks
-/.ipynb_checkpoints
+*.ipynb_checkpoints
 logs.txt
