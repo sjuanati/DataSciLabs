@@ -8,3 +8,4 @@ pip3 install lxml
 pip3 install openpyxl
 pip3 install html5lib
 pip3 install BeautifulSoup4
+pip3 install matplotlib
