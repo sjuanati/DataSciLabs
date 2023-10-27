@@ -13,11 +13,20 @@ from sqlalchemy import create_engine
 
 path = os.path.dirname(os.path.abspath(__file__)) + "/filez/"
 
+# if data would be in ./data instead of ./src:
+'''
+data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+users = os.path.join(data_dir, 'users.csv')
+'''
+
 
 # ********* CSV files ******************************
 
 # store data from CSV file into a DataFrame
 df = pd.read_csv(path + "data.csv")
+
+# double check that columns are correctly loaded
+df.columns
 
 # save DataFrame into a CSV file
 df.to_csv(path + "output.csv", index=False)
