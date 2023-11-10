@@ -5,3 +5,4 @@ __pycache__/
 /logs
 *.ipynb_checkpoints
 logs.txt
+projects/stablecoins/data
