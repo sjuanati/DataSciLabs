@@ -17,6 +17,18 @@ args:
     ensuring that the original data is not modified.
 """
 
+# create DataFrame from arrays:
+df0 = pd.DataFrame({
+    'Number': range(1500),
+    'Squared': [i**2 for i in range(1500)]
+})
+#   Number	Squared
+0	    0	    0
+1	    1	    1
+2	    2	    4
+3	    3	    9
+
+
 # each column is actually a pandas Series
 df1 = pd.DataFrame(randn(5, 4))
 #           0         1         2         3
