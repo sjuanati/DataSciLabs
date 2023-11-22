@@ -1,0 +1,17 @@
+1) Compatibility:
+GeoJSON files from Barcelona's open data use the "EPSG:25831" coordinate
+reference system, which is not the same as the "EPSG:4326" used by default
+in web mapping applications like Plotly. You should convert your GeoJSON to
+"EPSG:4326" to ensure compatibility with Plotly. There are tools like GDAL's
+ogr2ogr or QGIS that can perform this conversion.
+
+Steps:
+$ brew install gdal
+$ ogr2ogr -f "GeoJSON" -t_srs EPSG:4326 output.geojson 0301100100_UNITATS_ADM_POLIGONS.json
+
+2) Masterdata (file 0301100100_UNITATS_ADM_POLIGONS_EPSG-4326.json)
+id = 000            ?
+id = 1 to 10        Districtes ("TIPUS_UA" = "DISTRICTE")
+id = 11 to 83       Barris ("TIPUS_UA" = "BARRI", "CODI_UA": 1 - 73)
+id = 84 to 316      AEB ("TIPUS_UA" = "AEB", "AEB": 1 - 233)
+id = 317 to 1384    Cens ("TIPUS_UA" = "SEC_CENS", "CODI_UA": NA)
