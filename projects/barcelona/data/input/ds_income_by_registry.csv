@@ -1,0 +1,1069 @@
+compound_id,district_id,district_desc,neighborhood_id,neighborhood_desc,income
+01001,1,Ciutat Vella,1,el Raval,13657.0
+01002,1,Ciutat Vella,1,el Raval,10724.0
+01003,1,Ciutat Vella,1,el Raval,11017.0
+01004,1,Ciutat Vella,1,el Raval,13156.0
+01005,1,Ciutat Vella,1,el Raval,11426.0
+01006,1,Ciutat Vella,1,el Raval,12444.0
+01007,1,Ciutat Vella,1,el Raval,11809.0
+01008,1,Ciutat Vella,1,el Raval,8836.0
+01009,1,Ciutat Vella,1,el Raval,11919.0
+01010,1,Ciutat Vella,1,el Raval,10457.0
+01011,1,Ciutat Vella,1,el Raval,9366.0
+01012,1,Ciutat Vella,1,el Raval,12561.0
+01013,1,Ciutat Vella,1,el Raval,12656.0
+01014,1,Ciutat Vella,1,el Raval,11673.0
+01015,1,Ciutat Vella,1,el Raval,12404.0
+01016,1,Ciutat Vella,1,el Raval,11261.0
+01017,1,Ciutat Vella,1,el Raval,10471.0
+01018,1,Ciutat Vella,1,el Raval,11415.0
+01019,1,Ciutat Vella,1,el Raval,11327.0
+01020,1,Ciutat Vella,1,el Raval,18374.0
+01021,1,Ciutat Vella,1,el Raval,17848.0
+01022,1,Ciutat Vella,2,el Barri Gòtic,22371.0
+01023,1,Ciutat Vella,2,el Barri Gòtic,19441.0
+01025,1,Ciutat Vella,2,el Barri Gòtic,17934.0
+01026,1,Ciutat Vella,2,el Barri Gòtic,18988.0
+01027,1,Ciutat Vella,2,el Barri Gòtic,16470.0
+01028,1,Ciutat Vella,2,el Barri Gòtic,15535.0
+01029,1,Ciutat Vella,2,el Barri Gòtic,13854.0
+01030,1,Ciutat Vella,2,el Barri Gòtic,13842.0
+01031,1,Ciutat Vella,2,el Barri Gòtic,14534.0
+01032,1,Ciutat Vella,3,la Barceloneta,18744.0
+01033,1,Ciutat Vella,3,la Barceloneta,15611.0
+01034,1,Ciutat Vella,3,la Barceloneta,15965.0
+01035,1,Ciutat Vella,3,la Barceloneta,15434.0
+01036,1,Ciutat Vella,3,la Barceloneta,16376.0
+01037,1,Ciutat Vella,3,la Barceloneta,16069.0
+01038,1,Ciutat Vella,3,la Barceloneta,14433.0
+01039,1,Ciutat Vella,3,la Barceloneta,16050.0
+01040,1,Ciutat Vella,3,la Barceloneta,16395.0
+01041,1,Ciutat Vella,3,la Barceloneta,14349.0
+01042,1,Ciutat Vella,3,la Barceloneta,16426.0
+01043,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",23526.0
+01044,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",20807.0
+01045,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17731.0
+01046,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17157.0
+01047,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16625.0
+01048,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",12943.0
+01049,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17305.0
+01050,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17106.0
+01051,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",14748.0
+01052,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",23329.0
+01053,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",15094.0
+01054,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16704.0
+01055,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",21933.0
+02001,2,L'Eixample,5,el Fort Pienc,22351.0
+02002,2,L'Eixample,5,el Fort Pienc,23052.0
+02003,2,L'Eixample,5,el Fort Pienc,26314.0
+02004,2,L'Eixample,5,el Fort Pienc,19376.0
+02005,2,L'Eixample,5,el Fort Pienc,25631.0
+02006,2,L'Eixample,5,el Fort Pienc,26360.0
+02007,2,L'Eixample,5,el Fort Pienc,27272.0
+02008,2,L'Eixample,5,el Fort Pienc,24757.0
+02009,2,L'Eixample,5,el Fort Pienc,24211.0
+02010,2,L'Eixample,5,el Fort Pienc,22679.0
+02011,2,L'Eixample,5,el Fort Pienc,23743.0
+02012,2,L'Eixample,5,el Fort Pienc,19064.0
+02013,2,L'Eixample,5,el Fort Pienc,20484.0
+02014,2,L'Eixample,5,el Fort Pienc,18642.0
+02015,2,L'Eixample,5,el Fort Pienc,18916.0
+02016,2,L'Eixample,5,el Fort Pienc,25305.0
+02017,2,L'Eixample,5,el Fort Pienc,25128.0
+02018,2,L'Eixample,5,el Fort Pienc,25001.0
+02019,2,L'Eixample,5,el Fort Pienc,22942.0
+02020,2,L'Eixample,5,el Fort Pienc,20469.0
+02021,2,L'Eixample,6,la Sagrada Família,21700.0
+02022,2,L'Eixample,6,la Sagrada Família,22602.0
+02023,2,L'Eixample,6,la Sagrada Família,23583.0
+02024,2,L'Eixample,6,la Sagrada Família,21354.0
+02025,2,L'Eixample,6,la Sagrada Família,21398.0
+02026,2,L'Eixample,6,la Sagrada Família,22995.0
+02027,2,L'Eixample,6,la Sagrada Família,22505.0
+02028,2,L'Eixample,6,la Sagrada Família,22400.0
+02029,2,L'Eixample,6,la Sagrada Família,23295.0
+02030,2,L'Eixample,6,la Sagrada Família,18101.0
+02031,2,L'Eixample,6,la Sagrada Família,24590.0
+02032,2,L'Eixample,6,la Sagrada Família,22673.0
+02033,2,L'Eixample,6,la Sagrada Família,21652.0
+02034,2,L'Eixample,6,la Sagrada Família,19601.0
+02035,2,L'Eixample,6,la Sagrada Família,22635.0
+02036,2,L'Eixample,6,la Sagrada Família,25121.0
+02037,2,L'Eixample,6,la Sagrada Família,25645.0
+02038,2,L'Eixample,6,la Sagrada Família,25684.0
+02039,2,L'Eixample,6,la Sagrada Família,21858.0
+02040,2,L'Eixample,6,la Sagrada Família,19802.0
+02041,2,L'Eixample,6,la Sagrada Família,22447.0
+02042,2,L'Eixample,6,la Sagrada Família,25728.0
+02043,2,L'Eixample,6,la Sagrada Família,24084.0
+02044,2,L'Eixample,6,la Sagrada Família,19490.0
+02045,2,L'Eixample,6,la Sagrada Família,23755.0
+02046,2,L'Eixample,6,la Sagrada Família,20591.0
+02047,2,L'Eixample,6,la Sagrada Família,21981.0
+02048,2,L'Eixample,6,la Sagrada Família,20853.0
+02049,2,L'Eixample,6,la Sagrada Família,20907.0
+02050,2,L'Eixample,6,la Sagrada Família,22297.0
+02051,2,L'Eixample,6,la Sagrada Família,19902.0
+02052,2,L'Eixample,6,la Sagrada Família,23820.0
+02053,2,L'Eixample,6,la Sagrada Família,24803.0
+02054,2,L'Eixample,6,la Sagrada Família,23912.0
+02055,2,L'Eixample,7,la Dreta de l'Eixample,24487.0
+02056,2,L'Eixample,7,la Dreta de l'Eixample,25304.0
+02057,2,L'Eixample,7,la Dreta de l'Eixample,29645.0
+02058,2,L'Eixample,7,la Dreta de l'Eixample,28757.0
+02059,2,L'Eixample,7,la Dreta de l'Eixample,29259.0
+02060,2,L'Eixample,7,la Dreta de l'Eixample,26888.0
+02061,2,L'Eixample,7,la Dreta de l'Eixample,25244.0
+02062,2,L'Eixample,7,la Dreta de l'Eixample,29758.0
+02063,2,L'Eixample,7,la Dreta de l'Eixample,37448.0
+02064,2,L'Eixample,7,la Dreta de l'Eixample,33684.0
+02065,2,L'Eixample,7,la Dreta de l'Eixample,27512.0
+02066,2,L'Eixample,7,la Dreta de l'Eixample,25876.0
+02067,2,L'Eixample,7,la Dreta de l'Eixample,22999.0
+02068,2,L'Eixample,7,la Dreta de l'Eixample,23973.0
+02069,2,L'Eixample,7,la Dreta de l'Eixample,28807.0
+02070,2,L'Eixample,7,la Dreta de l'Eixample,32592.0
+02071,2,L'Eixample,7,la Dreta de l'Eixample,31844.0
+02072,2,L'Eixample,7,la Dreta de l'Eixample,35392.0
+02073,2,L'Eixample,7,la Dreta de l'Eixample,31202.0
+02074,2,L'Eixample,7,la Dreta de l'Eixample,31083.0
+02075,2,L'Eixample,7,la Dreta de l'Eixample,29343.0
+02076,2,L'Eixample,7,la Dreta de l'Eixample,32109.0
+02077,2,L'Eixample,7,la Dreta de l'Eixample,27615.0
+02078,2,L'Eixample,7,la Dreta de l'Eixample,32058.0
+02079,2,L'Eixample,7,la Dreta de l'Eixample,37447.0
+02080,2,L'Eixample,7,la Dreta de l'Eixample,36294.0
+02081,2,L'Eixample,7,la Dreta de l'Eixample,33930.0
+02082,2,L'Eixample,7,la Dreta de l'Eixample,31703.0
+02083,2,L'Eixample,7,la Dreta de l'Eixample,36269.0
+02084,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,28493.0
+02085,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,31899.0
+02086,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,32274.0
+02087,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,28692.0
+02088,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,32741.0
+02089,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,30101.0
+02090,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,25004.0
+02091,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,27560.0
+02092,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,25003.0
+02093,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,27328.0
+02094,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,26503.0
+02095,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,26890.0
+02096,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,24676.0
+02097,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,23581.0
+02098,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,26441.0
+02099,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,28291.0
+02100,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,26936.0
+02101,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,25527.0
+02102,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,30359.0
+02103,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,23203.0
+02104,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,29230.0
+02105,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,23629.0
+02106,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,31333.0
+02107,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,30949.0
+02108,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,32455.0
+02109,2,L'Eixample,8,l'Antiga Esquerra de l'Eixample,34758.0
+02110,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26055.0
+02111,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26191.0
+02112,2,L'Eixample,9,la Nova Esquerra de l'Eixample,33303.0
+02113,2,L'Eixample,9,la Nova Esquerra de l'Eixample,30950.0
+02114,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25783.0
+02115,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26104.0
+02116,2,L'Eixample,9,la Nova Esquerra de l'Eixample,31310.0
+02117,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25967.0
+02118,2,L'Eixample,9,la Nova Esquerra de l'Eixample,29140.0
+02119,2,L'Eixample,9,la Nova Esquerra de l'Eixample,27343.0
+02120,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26226.0
+02121,2,L'Eixample,9,la Nova Esquerra de l'Eixample,27572.0
+02122,2,L'Eixample,9,la Nova Esquerra de l'Eixample,29088.0
+02123,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26004.0
+02124,2,L'Eixample,9,la Nova Esquerra de l'Eixample,27448.0
+02125,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25473.0
+02126,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26585.0
+02127,2,L'Eixample,9,la Nova Esquerra de l'Eixample,24443.0
+02128,2,L'Eixample,9,la Nova Esquerra de l'Eixample,22734.0
+02129,2,L'Eixample,9,la Nova Esquerra de l'Eixample,24761.0
+02130,2,L'Eixample,9,la Nova Esquerra de l'Eixample,37539.0
+02131,2,L'Eixample,9,la Nova Esquerra de l'Eixample,24742.0
+02132,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25893.0
+02133,2,L'Eixample,9,la Nova Esquerra de l'Eixample,26570.0
+02134,2,L'Eixample,9,la Nova Esquerra de l'Eixample,23756.0
+02135,2,L'Eixample,9,la Nova Esquerra de l'Eixample,22386.0
+02136,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25907.0
+02137,2,L'Eixample,9,la Nova Esquerra de l'Eixample,22387.0
+02138,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25176.0
+02139,2,L'Eixample,9,la Nova Esquerra de l'Eixample,23569.0
+02140,2,L'Eixample,9,la Nova Esquerra de l'Eixample,24370.0
+02141,2,L'Eixample,9,la Nova Esquerra de l'Eixample,23318.0
+02142,2,L'Eixample,9,la Nova Esquerra de l'Eixample,21478.0
+02143,2,L'Eixample,9,la Nova Esquerra de l'Eixample,23602.0
+02144,2,L'Eixample,9,la Nova Esquerra de l'Eixample,27649.0
+02145,2,L'Eixample,9,la Nova Esquerra de l'Eixample,22946.0
+02146,2,L'Eixample,9,la Nova Esquerra de l'Eixample,22973.0
+02147,2,L'Eixample,9,la Nova Esquerra de l'Eixample,23497.0
+02148,2,L'Eixample,9,la Nova Esquerra de l'Eixample,25721.0
+02149,2,L'Eixample,9,la Nova Esquerra de l'Eixample,22765.0
+02150,2,L'Eixample,10,Sant Antoni,20467.0
+02151,2,L'Eixample,10,Sant Antoni,23696.0
+02152,2,L'Eixample,10,Sant Antoni,25247.0
+02153,2,L'Eixample,10,Sant Antoni,24623.0
+02154,2,L'Eixample,10,Sant Antoni,19477.0
+02155,2,L'Eixample,10,Sant Antoni,20606.0
+02156,2,L'Eixample,10,Sant Antoni,22911.0
+02157,2,L'Eixample,10,Sant Antoni,21343.0
+02158,2,L'Eixample,10,Sant Antoni,22532.0
+02159,2,L'Eixample,10,Sant Antoni,22466.0
+02160,2,L'Eixample,10,Sant Antoni,25818.0
+02161,2,L'Eixample,10,Sant Antoni,22437.0
+02162,2,L'Eixample,10,Sant Antoni,21037.0
+02163,2,L'Eixample,10,Sant Antoni,25459.0
+02164,2,L'Eixample,10,Sant Antoni,24076.0
+02165,2,L'Eixample,10,Sant Antoni,23179.0
+02166,2,L'Eixample,10,Sant Antoni,21754.0
+02167,2,L'Eixample,10,Sant Antoni,22708.0
+02168,2,L'Eixample,10,Sant Antoni,22491.0
+02169,2,L'Eixample,10,Sant Antoni,21899.0
+02170,2,L'Eixample,10,Sant Antoni,21327.0
+02171,2,L'Eixample,10,Sant Antoni,19881.0
+02172,2,L'Eixample,10,Sant Antoni,20827.0
+02173,2,L'Eixample,10,Sant Antoni,22203.0
+03001,3,Sants-Montjuïc,11,el Poble Sec,17339.0
+03002,3,Sants-Montjuïc,11,el Poble Sec,15941.0
+03003,3,Sants-Montjuïc,11,el Poble Sec,15142.0
+03004,3,Sants-Montjuïc,11,el Poble Sec,18538.0
+03005,3,Sants-Montjuïc,11,el Poble Sec,16862.0
+03006,3,Sants-Montjuïc,11,el Poble Sec,16683.0
+03007,3,Sants-Montjuïc,11,el Poble Sec,17031.0
+03008,3,Sants-Montjuïc,11,el Poble Sec,15773.0
+03009,3,Sants-Montjuïc,11,el Poble Sec,17856.0
+03010,3,Sants-Montjuïc,11,el Poble Sec,15390.0
+03011,3,Sants-Montjuïc,11,el Poble Sec,13723.0
+03012,3,Sants-Montjuïc,11,el Poble Sec,16055.0
+03013,3,Sants-Montjuïc,11,el Poble Sec,15380.0
+03014,3,Sants-Montjuïc,11,el Poble Sec,14569.0
+03015,3,Sants-Montjuïc,11,el Poble Sec,15766.0
+03016,3,Sants-Montjuïc,11,el Poble Sec,14272.0
+03017,3,Sants-Montjuïc,11,el Poble Sec,14134.0
+03018,3,Sants-Montjuïc,11,el Poble Sec,16982.0
+03019,3,Sants-Montjuïc,11,el Poble Sec,15989.0
+03020,3,Sants-Montjuïc,11,el Poble Sec,19278.0
+03021,3,Sants-Montjuïc,11,el Poble Sec,18549.0
+03022,3,Sants-Montjuïc,11,el Poble Sec,18639.0
+03023,3,Sants-Montjuïc,11,el Poble Sec,15679.0
+03024,3,Sants-Montjuïc,11,el Poble Sec,16480.0
+03025,3,Sants-Montjuïc,12,la Marina del Prat Vermell,13866.0
+03026,3,Sants-Montjuïc,13,la Marina de Port,16464.0
+03027,3,Sants-Montjuïc,13,la Marina de Port,18571.0
+03028,3,Sants-Montjuïc,13,la Marina de Port,21154.0
+03029,3,Sants-Montjuïc,13,la Marina de Port,15214.0
+03030,3,Sants-Montjuïc,13,la Marina de Port,17502.0
+03031,3,Sants-Montjuïc,13,la Marina de Port,16205.0
+03032,3,Sants-Montjuïc,13,la Marina de Port,15038.0
+03033,3,Sants-Montjuïc,13,la Marina de Port,12157.0
+03034,3,Sants-Montjuïc,13,la Marina de Port,16241.0
+03035,3,Sants-Montjuïc,13,la Marina de Port,18240.0
+03036,3,Sants-Montjuïc,13,la Marina de Port,20007.0
+03037,3,Sants-Montjuïc,13,la Marina de Port,19703.0
+03038,3,Sants-Montjuïc,13,la Marina de Port,12399.0
+03039,3,Sants-Montjuïc,13,la Marina de Port,11756.0
+03040,3,Sants-Montjuïc,14,la Font de la Guatlla,22547.0
+03041,3,Sants-Montjuïc,14,la Font de la Guatlla,18969.0
+03042,3,Sants-Montjuïc,14,la Font de la Guatlla,18361.0
+03043,3,Sants-Montjuïc,14,la Font de la Guatlla,20854.0
+03044,3,Sants-Montjuïc,14,la Font de la Guatlla,17523.0
+03045,3,Sants-Montjuïc,14,la Font de la Guatlla,20096.0
+03046,3,Sants-Montjuïc,14,la Font de la Guatlla,23531.0
+03047,3,Sants-Montjuïc,15,Hostafrancs,18750.0
+03048,3,Sants-Montjuïc,15,Hostafrancs,23157.0
+03049,3,Sants-Montjuïc,15,Hostafrancs,20303.0
+03050,3,Sants-Montjuïc,15,Hostafrancs,21254.0
+03051,3,Sants-Montjuïc,15,Hostafrancs,16473.0
+03052,3,Sants-Montjuïc,15,Hostafrancs,18832.0
+03053,3,Sants-Montjuïc,15,Hostafrancs,17715.0
+03054,3,Sants-Montjuïc,15,Hostafrancs,20221.0
+03055,3,Sants-Montjuïc,15,Hostafrancs,19469.0
+03056,3,Sants-Montjuïc,15,Hostafrancs,18909.0
+03057,3,Sants-Montjuïc,16,la Bordeta,18937.0
+03058,3,Sants-Montjuïc,16,la Bordeta,24930.0
+03059,3,Sants-Montjuïc,16,la Bordeta,17567.0
+03060,3,Sants-Montjuïc,16,la Bordeta,21251.0
+03061,3,Sants-Montjuïc,16,la Bordeta,18302.0
+03062,3,Sants-Montjuïc,16,la Bordeta,19545.0
+03063,3,Sants-Montjuïc,16,la Bordeta,18823.0
+03064,3,Sants-Montjuïc,16,la Bordeta,20899.0
+03065,3,Sants-Montjuïc,16,la Bordeta,19915.0
+03066,3,Sants-Montjuïc,16,la Bordeta,18094.0
+03067,3,Sants-Montjuïc,16,la Bordeta,19934.0
+03068,3,Sants-Montjuïc,16,la Bordeta,17090.0
+03069,3,Sants-Montjuïc,16,la Bordeta,21471.0
+03070,3,Sants-Montjuïc,17,Sants-Badal,16250.0
+03071,3,Sants-Montjuïc,17,Sants-Badal,16551.0
+03072,3,Sants-Montjuïc,17,Sants-Badal,17136.0
+03073,3,Sants-Montjuïc,17,Sants-Badal,20905.0
+03074,3,Sants-Montjuïc,17,Sants-Badal,20240.0
+03075,3,Sants-Montjuïc,17,Sants-Badal,18107.0
+03076,3,Sants-Montjuïc,17,Sants-Badal,17788.0
+03077,3,Sants-Montjuïc,17,Sants-Badal,17697.0
+03078,3,Sants-Montjuïc,17,Sants-Badal,17750.0
+03079,3,Sants-Montjuïc,17,Sants-Badal,16067.0
+03080,3,Sants-Montjuïc,17,Sants-Badal,18691.0
+03081,3,Sants-Montjuïc,17,Sants-Badal,19792.0
+03082,3,Sants-Montjuïc,17,Sants-Badal,22314.0
+03083,3,Sants-Montjuïc,17,Sants-Badal,21938.0
+03084,3,Sants-Montjuïc,17,Sants-Badal,21931.0
+03085,3,Sants-Montjuïc,17,Sants-Badal,22426.0
+03086,3,Sants-Montjuïc,18,Sants,26167.0
+03087,3,Sants-Montjuïc,18,Sants,23893.0
+03088,3,Sants-Montjuïc,18,Sants,19862.0
+03089,3,Sants-Montjuïc,18,Sants,23022.0
+03090,3,Sants-Montjuïc,18,Sants,26449.0
+03091,3,Sants-Montjuïc,18,Sants,21824.0
+03092,3,Sants-Montjuïc,18,Sants,21648.0
+03093,3,Sants-Montjuïc,18,Sants,22233.0
+03094,3,Sants-Montjuïc,18,Sants,22935.0
+03095,3,Sants-Montjuïc,18,Sants,20960.0
+03096,3,Sants-Montjuïc,18,Sants,19554.0
+03097,3,Sants-Montjuïc,18,Sants,14888.0
+03098,3,Sants-Montjuïc,18,Sants,16863.0
+03099,3,Sants-Montjuïc,18,Sants,20691.0
+03100,3,Sants-Montjuïc,18,Sants,19640.0
+03101,3,Sants-Montjuïc,18,Sants,20266.0
+03102,3,Sants-Montjuïc,18,Sants,19818.0
+03103,3,Sants-Montjuïc,18,Sants,19787.0
+03104,3,Sants-Montjuïc,18,Sants,19405.0
+03105,3,Sants-Montjuïc,18,Sants,19527.0
+03106,3,Sants-Montjuïc,18,Sants,20697.0
+03107,3,Sants-Montjuïc,18,Sants,21366.0
+03108,3,Sants-Montjuïc,18,Sants,20200.0
+03109,3,Sants-Montjuïc,18,Sants,21508.0
+03110,3,Sants-Montjuïc,18,Sants,22725.0
+03111,3,Sants-Montjuïc,18,Sants,22762.0
+03112,3,Sants-Montjuïc,18,Sants,24178.0
+03113,3,Sants-Montjuïc,18,Sants,28873.0
+03114,3,Sants-Montjuïc,18,Sants,26595.0
+03211,3,Sants-Montjuïc,13,la Marina de Port,17402.0
+03212,3,Sants-Montjuïc,13,la Marina de Port,16012.0
+03213,3,Sants-Montjuïc,13,la Marina de Port,13321.0
+04001,4,Les Corts,19,les Corts,25085.0
+04002,4,Les Corts,19,les Corts,28198.0
+04003,4,Les Corts,19,les Corts,28190.0
+04004,4,Les Corts,19,les Corts,25086.0
+04005,4,Les Corts,19,les Corts,24125.0
+04006,4,Les Corts,19,les Corts,25505.0
+04007,4,Les Corts,19,les Corts,21156.0
+04008,4,Les Corts,19,les Corts,22212.0
+04009,4,Les Corts,19,les Corts,25093.0
+04010,4,Les Corts,19,les Corts,27985.0
+04011,4,Les Corts,19,les Corts,30286.0
+04012,4,Les Corts,19,les Corts,28152.0
+04013,4,Les Corts,19,les Corts,30353.0
+04014,4,Les Corts,19,les Corts,33623.0
+04015,4,Les Corts,19,les Corts,27748.0
+04016,4,Les Corts,19,les Corts,30514.0
+04017,4,Les Corts,19,les Corts,29393.0
+04018,4,Les Corts,19,les Corts,31173.0
+04019,4,Les Corts,19,les Corts,38232.0
+04020,4,Les Corts,19,les Corts,31235.0
+04021,4,Les Corts,19,les Corts,36344.0
+04022,4,Les Corts,19,les Corts,29622.0
+04023,4,Les Corts,19,les Corts,46570.0
+04024,4,Les Corts,19,les Corts,46570.0
+04025,4,Les Corts,19,les Corts,27698.0
+04026,4,Les Corts,19,les Corts,29058.0
+04027,4,Les Corts,19,les Corts,32603.0
+04028,4,Les Corts,19,les Corts,28129.0
+04029,4,Les Corts,19,les Corts,32612.0
+04030,4,Les Corts,19,les Corts,30109.0
+04031,4,Les Corts,19,les Corts,25545.0
+04032,4,Les Corts,19,les Corts,23970.0
+04033,4,Les Corts,19,les Corts,24163.0
+04034,4,Les Corts,19,les Corts,30866.0
+04035,4,Les Corts,19,les Corts,29013.0
+04036,4,Les Corts,20,la Maternitat i Sant Ramon,23096.0
+04037,4,Les Corts,20,la Maternitat i Sant Ramon,25398.0
+04038,4,Les Corts,20,la Maternitat i Sant Ramon,25000.0
+04039,4,Les Corts,20,la Maternitat i Sant Ramon,23177.0
+04040,4,Les Corts,20,la Maternitat i Sant Ramon,18638.0
+04041,4,Les Corts,20,la Maternitat i Sant Ramon,20317.0
+04042,4,Les Corts,20,la Maternitat i Sant Ramon,19300.0
+04043,4,Les Corts,20,la Maternitat i Sant Ramon,29939.0
+04044,4,Les Corts,20,la Maternitat i Sant Ramon,22234.0
+04045,4,Les Corts,20,la Maternitat i Sant Ramon,21440.0
+04046,4,Les Corts,20,la Maternitat i Sant Ramon,34876.0
+04047,4,Les Corts,20,la Maternitat i Sant Ramon,27177.0
+04048,4,Les Corts,20,la Maternitat i Sant Ramon,29775.0
+04049,4,Les Corts,20,la Maternitat i Sant Ramon,38494.0
+04050,4,Les Corts,21,Pedralbes,46570.0
+04051,4,Les Corts,21,Pedralbes,32777.0
+04052,4,Les Corts,21,Pedralbes,46570.0
+04053,4,Les Corts,21,Pedralbes,33251.0
+04054,4,Les Corts,21,Pedralbes,43405.0
+04055,4,Les Corts,21,Pedralbes,46570.0
+04056,4,Les Corts,21,Pedralbes,46570.0
+04084,4,Les Corts,20,la Maternitat i Sant Ramon,31958.0
+05001,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",19922.0
+05002,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",35782.0
+05003,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",36212.0
+05004,5,Sarrià-Sant Gervasi,23,Sarrià,46570.0
+05005,5,Sarrià-Sant Gervasi,23,Sarrià,46075.0
+05006,5,Sarrià-Sant Gervasi,23,Sarrià,46570.0
+05007,5,Sarrià-Sant Gervasi,23,Sarrià,40495.0
+05008,5,Sarrià-Sant Gervasi,23,Sarrià,45660.0
+05009,5,Sarrià-Sant Gervasi,23,Sarrià,35200.0
+05010,5,Sarrià-Sant Gervasi,23,Sarrià,31231.0
+05011,5,Sarrià-Sant Gervasi,23,Sarrià,37458.0
+05012,5,Sarrià-Sant Gervasi,23,Sarrià,30604.0
+05013,5,Sarrià-Sant Gervasi,23,Sarrià,32868.0
+05014,5,Sarrià-Sant Gervasi,23,Sarrià,38190.0
+05015,5,Sarrià-Sant Gervasi,23,Sarrià,34694.0
+05016,5,Sarrià-Sant Gervasi,23,Sarrià,28487.0
+05017,5,Sarrià-Sant Gervasi,23,Sarrià,46570.0
+05018,5,Sarrià-Sant Gervasi,23,Sarrià,32905.0
+05019,5,Sarrià-Sant Gervasi,23,Sarrià,42395.0
+05020,5,Sarrià-Sant Gervasi,24,les Tres Torres,41036.0
+05021,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05022,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05023,5,Sarrià-Sant Gervasi,24,les Tres Torres,28960.0
+05024,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05025,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05026,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05027,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05028,5,Sarrià-Sant Gervasi,24,les Tres Torres,44528.0
+05029,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05030,5,Sarrià-Sant Gervasi,24,les Tres Torres,46570.0
+05031,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,46570.0
+05032,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,46570.0
+05033,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,42245.0
+05034,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,36156.0
+05035,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,46570.0
+05036,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,43567.0
+05037,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,31005.0
+05038,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,31859.0
+05039,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,42984.0
+05040,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,29944.0
+05041,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,34603.0
+05042,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,32414.0
+05043,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,30812.0
+05044,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,33419.0
+05045,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,38548.0
+05046,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,46570.0
+05047,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,41891.0
+05048,5,Sarrià-Sant Gervasi,25,Sant Gervasi- la Bonanova,43424.0
+05049,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05050,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,35255.0
+05051,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,45222.0
+05052,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05053,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05054,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05055,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05056,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,44654.0
+05057,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05058,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05059,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,41714.0
+05060,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,46570.0
+05061,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,33613.0
+05062,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,39116.0
+05063,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,42445.0
+05064,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,35749.0
+05065,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,32159.0
+05066,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,41827.0
+05067,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,39682.0
+05068,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,35779.0
+05069,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,33682.0
+05070,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,33042.0
+05071,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,31050.0
+05072,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,38847.0
+05073,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,32590.0
+05074,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,36897.0
+05075,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,34757.0
+05076,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,35558.0
+05077,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,37901.0
+05078,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,37472.0
+05079,5,Sarrià-Sant Gervasi,26,Sant Gervasi- Galvany,34055.0
+05080,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,31169.0
+05081,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,30378.0
+05082,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,28195.0
+05083,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,27747.0
+05084,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,28139.0
+05085,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,26696.0
+05086,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,28308.0
+05087,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,31153.0
+05088,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,31279.0
+05089,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,32156.0
+05090,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,28929.0
+05091,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,29354.0
+05092,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,41827.0
+05093,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,35725.0
+05094,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,38828.0
+05095,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,26108.0
+05096,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,26299.0
+05097,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,31952.0
+05098,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,27109.0
+06001,6,Gràcia,28,Vallcarca i els Penitents,21994.0
+06002,6,Gràcia,28,Vallcarca i els Penitents,23517.0
+06003,6,Gràcia,28,Vallcarca i els Penitents,21726.0
+06004,6,Gràcia,28,Vallcarca i els Penitents,24289.0
+06006,6,Gràcia,28,Vallcarca i els Penitents,33473.0
+06007,6,Gràcia,28,Vallcarca i els Penitents,25927.0
+06008,6,Gràcia,28,Vallcarca i els Penitents,24831.0
+06009,6,Gràcia,28,Vallcarca i els Penitents,33388.0
+06010,6,Gràcia,28,Vallcarca i els Penitents,27797.0
+06011,6,Gràcia,28,Vallcarca i els Penitents,26983.0
+06012,6,Gràcia,28,Vallcarca i els Penitents,31153.0
+06013,6,Gràcia,29,el Coll,22432.0
+06014,6,Gràcia,29,el Coll,20906.0
+06015,6,Gràcia,29,el Coll,19066.0
+06016,6,Gràcia,29,el Coll,18261.0
+06017,6,Gràcia,29,el Coll,19781.0
+06018,6,Gràcia,30,la Salut,22546.0
+06019,6,Gràcia,30,la Salut,23609.0
+06020,6,Gràcia,30,la Salut,24111.0
+06021,6,Gràcia,30,la Salut,27741.0
+06022,6,Gràcia,30,la Salut,24271.0
+06023,6,Gràcia,30,la Salut,32150.0
+06024,6,Gràcia,30,la Salut,25068.0
+06025,6,Gràcia,30,la Salut,26368.0
+06026,6,Gràcia,30,la Salut,24460.0
+06027,6,Gràcia,30,la Salut,26573.0
+06028,6,Gràcia,31,la Vila de Gràcia,21968.0
+06029,6,Gràcia,31,la Vila de Gràcia,25165.0
+06030,6,Gràcia,31,la Vila de Gràcia,22349.0
+06031,6,Gràcia,31,la Vila de Gràcia,25451.0
+06032,6,Gràcia,31,la Vila de Gràcia,22385.0
+06033,6,Gràcia,31,la Vila de Gràcia,23682.0
+06034,6,Gràcia,31,la Vila de Gràcia,22469.0
+06035,6,Gràcia,31,la Vila de Gràcia,27821.0
+06036,6,Gràcia,31,la Vila de Gràcia,26278.0
+06037,6,Gràcia,31,la Vila de Gràcia,25293.0
+06038,6,Gràcia,31,la Vila de Gràcia,23624.0
+06039,6,Gràcia,31,la Vila de Gràcia,22349.0
+06040,6,Gràcia,31,la Vila de Gràcia,26160.0
+06041,6,Gràcia,31,la Vila de Gràcia,26745.0
+06042,6,Gràcia,31,la Vila de Gràcia,30928.0
+06043,6,Gràcia,31,la Vila de Gràcia,25872.0
+06044,6,Gràcia,31,la Vila de Gràcia,32322.0
+06045,6,Gràcia,31,la Vila de Gràcia,25713.0
+06046,6,Gràcia,31,la Vila de Gràcia,24464.0
+06047,6,Gràcia,31,la Vila de Gràcia,21347.0
+06048,6,Gràcia,31,la Vila de Gràcia,22755.0
+06049,6,Gràcia,31,la Vila de Gràcia,24306.0
+06050,6,Gràcia,31,la Vila de Gràcia,20774.0
+06051,6,Gràcia,31,la Vila de Gràcia,25164.0
+06052,6,Gràcia,31,la Vila de Gràcia,22651.0
+06053,6,Gràcia,31,la Vila de Gràcia,22916.0
+06054,6,Gràcia,31,la Vila de Gràcia,21094.0
+06055,6,Gràcia,31,la Vila de Gràcia,22872.0
+06056,6,Gràcia,31,la Vila de Gràcia,22341.0
+06057,6,Gràcia,31,la Vila de Gràcia,21414.0
+06058,6,Gràcia,31,la Vila de Gràcia,24964.0
+06059,6,Gràcia,31,la Vila de Gràcia,23375.0
+06060,6,Gràcia,31,la Vila de Gràcia,21975.0
+06061,6,Gràcia,31,la Vila de Gràcia,22888.0
+06062,6,Gràcia,31,la Vila de Gràcia,20692.0
+06063,6,Gràcia,31,la Vila de Gràcia,21628.0
+06064,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,25188.0
+06065,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,27020.0
+06066,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,21799.0
+06067,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24371.0
+06068,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,27563.0
+06069,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,25607.0
+06070,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,22959.0
+06071,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24988.0
+06072,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,27475.0
+06073,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,23599.0
+06074,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,23320.0
+06075,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,27328.0
+06076,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,25230.0
+06077,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,21531.0
+06078,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,22255.0
+06079,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24746.0
+06080,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,23633.0
+06081,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,23233.0
+06082,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24492.0
+06083,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,26449.0
+06084,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,23439.0
+06085,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,25867.0
+06086,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,29894.0
+06087,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,27648.0
+06088,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24579.0
+07001,7,Horta-Guinardó,33,el Baix Guinardó,24454.0
+07002,7,Horta-Guinardó,33,el Baix Guinardó,20495.0
+07003,7,Horta-Guinardó,33,el Baix Guinardó,22294.0
+07004,7,Horta-Guinardó,33,el Baix Guinardó,20332.0
+07005,7,Horta-Guinardó,33,el Baix Guinardó,20393.0
+07006,7,Horta-Guinardó,33,el Baix Guinardó,23169.0
+07007,7,Horta-Guinardó,33,el Baix Guinardó,20251.0
+07008,7,Horta-Guinardó,33,el Baix Guinardó,22431.0
+07009,7,Horta-Guinardó,33,el Baix Guinardó,19850.0
+07010,7,Horta-Guinardó,33,el Baix Guinardó,22240.0
+07011,7,Horta-Guinardó,33,el Baix Guinardó,20865.0
+07012,7,Horta-Guinardó,33,el Baix Guinardó,19526.0
+07013,7,Horta-Guinardó,33,el Baix Guinardó,24267.0
+07014,7,Horta-Guinardó,33,el Baix Guinardó,18466.0
+07015,7,Horta-Guinardó,33,el Baix Guinardó,20835.0
+07016,7,Horta-Guinardó,33,el Baix Guinardó,23332.0
+07017,7,Horta-Guinardó,33,el Baix Guinardó,21022.0
+07018,7,Horta-Guinardó,33,el Baix Guinardó,20431.0
+07019,7,Horta-Guinardó,33,el Baix Guinardó,21046.0
+07020,7,Horta-Guinardó,34,Can Baró,20945.0
+07021,7,Horta-Guinardó,34,Can Baró,23545.0
+07022,7,Horta-Guinardó,34,Can Baró,18934.0
+07023,7,Horta-Guinardó,34,Can Baró,16675.0
+07024,7,Horta-Guinardó,34,Can Baró,21212.0
+07025,7,Horta-Guinardó,34,Can Baró,18426.0
+07026,7,Horta-Guinardó,34,Can Baró,19556.0
+07027,7,Horta-Guinardó,35,el Guinardó,18533.0
+07028,7,Horta-Guinardó,35,el Guinardó,19674.0
+07029,7,Horta-Guinardó,35,el Guinardó,22005.0
+07030,7,Horta-Guinardó,35,el Guinardó,17594.0
+07031,7,Horta-Guinardó,35,el Guinardó,17805.0
+07032,7,Horta-Guinardó,35,el Guinardó,20554.0
+07033,7,Horta-Guinardó,35,el Guinardó,21416.0
+07034,7,Horta-Guinardó,35,el Guinardó,23520.0
+07035,7,Horta-Guinardó,35,el Guinardó,23833.0
+07036,7,Horta-Guinardó,35,el Guinardó,23842.0
+07037,7,Horta-Guinardó,35,el Guinardó,20577.0
+07038,7,Horta-Guinardó,35,el Guinardó,20446.0
+07039,7,Horta-Guinardó,35,el Guinardó,21491.0
+07040,7,Horta-Guinardó,35,el Guinardó,21412.0
+07041,7,Horta-Guinardó,35,el Guinardó,19475.0
+07042,7,Horta-Guinardó,35,el Guinardó,21522.0
+07043,7,Horta-Guinardó,35,el Guinardó,20653.0
+07044,7,Horta-Guinardó,35,el Guinardó,22407.0
+07045,7,Horta-Guinardó,35,el Guinardó,19568.0
+07046,7,Horta-Guinardó,35,el Guinardó,18956.0
+07047,7,Horta-Guinardó,35,el Guinardó,19923.0
+07048,7,Horta-Guinardó,35,el Guinardó,20975.0
+07049,7,Horta-Guinardó,35,el Guinardó,20279.0
+07050,7,Horta-Guinardó,35,el Guinardó,19064.0
+07051,7,Horta-Guinardó,35,el Guinardó,19284.0
+07052,7,Horta-Guinardó,36,la Font d'en Fargues,26057.0
+07053,7,Horta-Guinardó,36,la Font d'en Fargues,22683.0
+07054,7,Horta-Guinardó,36,la Font d'en Fargues,29841.0
+07055,7,Horta-Guinardó,36,la Font d'en Fargues,30072.0
+07056,7,Horta-Guinardó,36,la Font d'en Fargues,22984.0
+07057,7,Horta-Guinardó,36,la Font d'en Fargues,23880.0
+07058,7,Horta-Guinardó,36,la Font d'en Fargues,22272.0
+07059,7,Horta-Guinardó,37,el Carmel,15668.0
+07060,7,Horta-Guinardó,37,el Carmel,15088.0
+07061,7,Horta-Guinardó,37,el Carmel,15918.0
+07062,7,Horta-Guinardó,37,el Carmel,16121.0
+07063,7,Horta-Guinardó,37,el Carmel,13331.0
+07064,7,Horta-Guinardó,37,el Carmel,13968.0
+07065,7,Horta-Guinardó,37,el Carmel,12669.0
+07066,7,Horta-Guinardó,37,el Carmel,13639.0
+07067,7,Horta-Guinardó,37,el Carmel,13594.0
+07068,7,Horta-Guinardó,37,el Carmel,12958.0
+07069,7,Horta-Guinardó,37,el Carmel,13844.0
+07070,7,Horta-Guinardó,37,el Carmel,13717.0
+07071,7,Horta-Guinardó,37,el Carmel,16968.0
+07072,7,Horta-Guinardó,37,el Carmel,15982.0
+07073,7,Horta-Guinardó,37,el Carmel,14161.0
+07074,7,Horta-Guinardó,37,el Carmel,15206.0
+07075,7,Horta-Guinardó,37,el Carmel,14186.0
+07076,7,Horta-Guinardó,37,el Carmel,14466.0
+07077,7,Horta-Guinardó,37,el Carmel,14497.0
+07078,7,Horta-Guinardó,37,el Carmel,14166.0
+07079,7,Horta-Guinardó,37,el Carmel,14537.0
+07080,7,Horta-Guinardó,37,el Carmel,15694.0
+07081,7,Horta-Guinardó,38,la Teixonera,17090.0
+07082,7,Horta-Guinardó,38,la Teixonera,15584.0
+07083,7,Horta-Guinardó,38,la Teixonera,15396.0
+07084,7,Horta-Guinardó,38,la Teixonera,15929.0
+07085,7,Horta-Guinardó,38,la Teixonera,16426.0
+07086,7,Horta-Guinardó,38,la Teixonera,15682.0
+07087,7,Horta-Guinardó,38,la Teixonera,16671.0
+07088,7,Horta-Guinardó,38,la Teixonera,16773.0
+07089,7,Horta-Guinardó,39,Sant Genís dels Agudells,20360.0
+07090,7,Horta-Guinardó,39,Sant Genís dels Agudells,17195.0
+07091,7,Horta-Guinardó,39,Sant Genís dels Agudells,17274.0
+07092,7,Horta-Guinardó,39,Sant Genís dels Agudells,13924.0
+07093,7,Horta-Guinardó,39,Sant Genís dels Agudells,17227.0
+07094,7,Horta-Guinardó,40,Montbau,18841.0
+07095,7,Horta-Guinardó,40,Montbau,19480.0
+07096,7,Horta-Guinardó,40,Montbau,17595.0
+07097,7,Horta-Guinardó,40,Montbau,21375.0
+07098,7,Horta-Guinardó,41,la Vall d'Hebron,27789.0
+07099,7,Horta-Guinardó,41,la Vall d'Hebron,23244.0
+07100,7,Horta-Guinardó,41,la Vall d'Hebron,20397.0
+07101,7,Horta-Guinardó,41,la Vall d'Hebron,20029.0
+07102,7,Horta-Guinardó,42,la Clota,19570.0
+07103,7,Horta-Guinardó,43,Horta,17958.0
+07104,7,Horta-Guinardó,43,Horta,16911.0
+07105,7,Horta-Guinardó,43,Horta,21256.0
+07106,7,Horta-Guinardó,43,Horta,21169.0
+07107,7,Horta-Guinardó,43,Horta,23756.0
+07108,7,Horta-Guinardó,43,Horta,21109.0
+07109,7,Horta-Guinardó,43,Horta,16498.0
+07110,7,Horta-Guinardó,43,Horta,21203.0
+07111,7,Horta-Guinardó,43,Horta,24473.0
+07112,7,Horta-Guinardó,43,Horta,21165.0
+07113,7,Horta-Guinardó,43,Horta,18567.0
+07114,7,Horta-Guinardó,43,Horta,22637.0
+07115,7,Horta-Guinardó,43,Horta,24490.0
+07116,7,Horta-Guinardó,43,Horta,20211.0
+07117,7,Horta-Guinardó,43,Horta,20803.0
+07118,7,Horta-Guinardó,43,Horta,20265.0
+07119,7,Horta-Guinardó,43,Horta,17419.0
+07120,7,Horta-Guinardó,43,Horta,18075.0
+07121,7,Horta-Guinardó,43,Horta,16652.0
+07122,7,Horta-Guinardó,43,Horta,19036.0
+07123,7,Horta-Guinardó,43,Horta,21247.0
+08001,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18619.0
+08002,8,Nou Barris,44,Vilapicina i la Torre Llobeta,20920.0
+08003,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18810.0
+08004,8,Nou Barris,44,Vilapicina i la Torre Llobeta,17017.0
+08005,8,Nou Barris,44,Vilapicina i la Torre Llobeta,19317.0
+08006,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18894.0
+08007,8,Nou Barris,44,Vilapicina i la Torre Llobeta,19908.0
+08008,8,Nou Barris,44,Vilapicina i la Torre Llobeta,19433.0
+08009,8,Nou Barris,44,Vilapicina i la Torre Llobeta,17750.0
+08010,8,Nou Barris,44,Vilapicina i la Torre Llobeta,21528.0
+08011,8,Nou Barris,44,Vilapicina i la Torre Llobeta,21197.0
+08012,8,Nou Barris,44,Vilapicina i la Torre Llobeta,19477.0
+08013,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18335.0
+08014,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18739.0
+08015,8,Nou Barris,44,Vilapicina i la Torre Llobeta,16338.0
+08016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,17715.0
+08017,8,Nou Barris,44,Vilapicina i la Torre Llobeta,20588.0
+08018,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18970.0
+08019,8,Nou Barris,44,Vilapicina i la Torre Llobeta,16906.0
+08020,8,Nou Barris,45,Porta,17809.0
+08021,8,Nou Barris,45,Porta,18740.0
+08022,8,Nou Barris,45,Porta,18457.0
+08023,8,Nou Barris,45,Porta,16282.0
+08024,8,Nou Barris,45,Porta,17544.0
+08025,8,Nou Barris,45,Porta,15648.0
+08026,8,Nou Barris,45,Porta,18370.0
+08027,8,Nou Barris,45,Porta,19670.0
+08028,8,Nou Barris,45,Porta,16413.0
+08029,8,Nou Barris,45,Porta,14677.0
+08030,8,Nou Barris,45,Porta,16130.0
+08031,8,Nou Barris,45,Porta,17531.0
+08032,8,Nou Barris,45,Porta,17357.0
+08033,8,Nou Barris,45,Porta,13105.0
+08034,8,Nou Barris,45,Porta,13513.0
+08035,8,Nou Barris,45,Porta,16822.0
+08036,8,Nou Barris,45,Porta,13342.0
+08037,8,Nou Barris,45,Porta,15708.0
+08038,8,Nou Barris,46,el Turó de la Peira,14278.0
+08039,8,Nou Barris,46,el Turó de la Peira,15393.0
+08040,8,Nou Barris,46,el Turó de la Peira,12901.0
+08041,8,Nou Barris,46,el Turó de la Peira,10421.0
+08042,8,Nou Barris,46,el Turó de la Peira,17986.0
+08043,8,Nou Barris,46,el Turó de la Peira,15774.0
+08044,8,Nou Barris,46,el Turó de la Peira,12955.0
+08045,8,Nou Barris,46,el Turó de la Peira,13018.0
+08046,8,Nou Barris,46,el Turó de la Peira,14250.0
+08047,8,Nou Barris,46,el Turó de la Peira,11704.0
+08048,8,Nou Barris,47,Can Peguera,10587.0
+08049,8,Nou Barris,47,Can Peguera,14074.0
+08050,8,Nou Barris,48,la Guineueta,20546.0
+08051,8,Nou Barris,48,la Guineueta,19839.0
+08052,8,Nou Barris,48,la Guineueta,17653.0
+08053,8,Nou Barris,48,la Guineueta,19513.0
+08054,8,Nou Barris,48,la Guineueta,18394.0
+08055,8,Nou Barris,48,la Guineueta,23280.0
+08056,8,Nou Barris,48,la Guineueta,16457.0
+08057,8,Nou Barris,48,la Guineueta,16670.0
+08058,8,Nou Barris,48,la Guineueta,15394.0
+08059,8,Nou Barris,48,la Guineueta,17389.0
+08060,8,Nou Barris,49,Canyelles,18366.0
+08061,8,Nou Barris,49,Canyelles,16214.0
+08062,8,Nou Barris,49,Canyelles,17934.0
+08063,8,Nou Barris,49,Canyelles,21115.0
+08064,8,Nou Barris,49,Canyelles,15392.0
+08065,8,Nou Barris,50,les Roquetes,11764.0
+08066,8,Nou Barris,50,les Roquetes,10859.0
+08067,8,Nou Barris,50,les Roquetes,13580.0
+08068,8,Nou Barris,50,les Roquetes,11760.0
+08069,8,Nou Barris,50,les Roquetes,12267.0
+08070,8,Nou Barris,50,les Roquetes,11895.0
+08071,8,Nou Barris,50,les Roquetes,12791.0
+08072,8,Nou Barris,50,les Roquetes,14603.0
+08073,8,Nou Barris,50,les Roquetes,11619.0
+08074,8,Nou Barris,50,les Roquetes,11911.0
+08075,8,Nou Barris,51,Verdun,14418.0
+08076,8,Nou Barris,51,Verdun,14799.0
+08077,8,Nou Barris,51,Verdun,11819.0
+08078,8,Nou Barris,51,Verdun,12863.0
+08079,8,Nou Barris,51,Verdun,12477.0
+08080,8,Nou Barris,51,Verdun,13735.0
+08081,8,Nou Barris,51,Verdun,12202.0
+08082,8,Nou Barris,51,Verdun,14325.0
+08083,8,Nou Barris,52,la Prosperitat,14698.0
+08084,8,Nou Barris,52,la Prosperitat,15747.0
+08085,8,Nou Barris,52,la Prosperitat,14023.0
+08086,8,Nou Barris,52,la Prosperitat,15094.0
+08087,8,Nou Barris,52,la Prosperitat,14897.0
+08088,8,Nou Barris,52,la Prosperitat,15209.0
+08089,8,Nou Barris,52,la Prosperitat,14689.0
+08090,8,Nou Barris,52,la Prosperitat,15702.0
+08091,8,Nou Barris,52,la Prosperitat,15137.0
+08092,8,Nou Barris,52,la Prosperitat,16143.0
+08093,8,Nou Barris,52,la Prosperitat,15080.0
+08094,8,Nou Barris,52,la Prosperitat,16066.0
+08095,8,Nou Barris,52,la Prosperitat,18923.0
+08096,8,Nou Barris,52,la Prosperitat,15525.0
+08097,8,Nou Barris,52,la Prosperitat,14681.0
+08098,8,Nou Barris,52,la Prosperitat,13948.0
+08099,8,Nou Barris,52,la Prosperitat,14631.0
+08100,8,Nou Barris,52,la Prosperitat,14863.0
+08101,8,Nou Barris,52,la Prosperitat,15681.0
+08102,8,Nou Barris,52,la Prosperitat,12525.0
+08103,8,Nou Barris,53,la Trinitat Nova,10632.0
+08104,8,Nou Barris,53,la Trinitat Nova,12057.0
+08105,8,Nou Barris,53,la Trinitat Nova,12152.0
+08106,8,Nou Barris,53,la Trinitat Nova,11408.0
+08107,8,Nou Barris,53,la Trinitat Nova,12288.0
+08108,8,Nou Barris,54,Torre Baró,11558.0
+08109,8,Nou Barris,54,Torre Baró,10692.0
+08110,8,Nou Barris,55,Ciutat Meridiana,8889.0
+08111,8,Nou Barris,55,Ciutat Meridiana,9847.0
+08112,8,Nou Barris,55,Ciutat Meridiana,10180.0
+08113,8,Nou Barris,55,Ciutat Meridiana,10143.0
+08114,8,Nou Barris,55,Ciutat Meridiana,10721.0
+08115,8,Nou Barris,55,Ciutat Meridiana,10544.0
+08116,8,Nou Barris,56,Vallbona,11620.0
+08215,8,Nou Barris,48,la Guineueta,19825.0
+09001,9,Sant Andreu,57,la Trinitat Vella,9444.0
+09002,9,Sant Andreu,57,la Trinitat Vella,11043.0
+09003,9,Sant Andreu,57,la Trinitat Vella,11305.0
+09004,9,Sant Andreu,57,la Trinitat Vella,11946.0
+09005,9,Sant Andreu,57,la Trinitat Vella,15987.0
+09006,9,Sant Andreu,58,Baró de Viver,12062.0
+09007,9,Sant Andreu,58,Baró de Viver,10910.0
+09008,9,Sant Andreu,59,el Bon Pastor,24979.0
+09009,9,Sant Andreu,59,el Bon Pastor,17828.0
+09010,9,Sant Andreu,59,el Bon Pastor,15129.0
+09011,9,Sant Andreu,59,el Bon Pastor,12672.0
+09013,9,Sant Andreu,59,el Bon Pastor,11026.0
+09014,9,Sant Andreu,59,el Bon Pastor,12951.0
+09015,9,Sant Andreu,59,el Bon Pastor,12847.0
+09016,9,Sant Andreu,60,Sant Andreu,19907.0
+09017,9,Sant Andreu,60,Sant Andreu,20002.0
+09018,9,Sant Andreu,60,Sant Andreu,19998.0
+09019,9,Sant Andreu,60,Sant Andreu,21931.0
+09020,9,Sant Andreu,60,Sant Andreu,21728.0
+09021,9,Sant Andreu,60,Sant Andreu,22274.0
+09022,9,Sant Andreu,60,Sant Andreu,23019.0
+09023,9,Sant Andreu,60,Sant Andreu,22379.0
+09024,9,Sant Andreu,60,Sant Andreu,21307.0
+09025,9,Sant Andreu,60,Sant Andreu,23242.0
+09026,9,Sant Andreu,60,Sant Andreu,22597.0
+09027,9,Sant Andreu,60,Sant Andreu,21946.0
+09028,9,Sant Andreu,60,Sant Andreu,24820.0
+09029,9,Sant Andreu,60,Sant Andreu,19381.0
+09030,9,Sant Andreu,60,Sant Andreu,22085.0
+09031,9,Sant Andreu,60,Sant Andreu,22495.0
+09032,9,Sant Andreu,60,Sant Andreu,16440.0
+09033,9,Sant Andreu,60,Sant Andreu,19252.0
+09034,9,Sant Andreu,60,Sant Andreu,17209.0
+09035,9,Sant Andreu,60,Sant Andreu,19506.0
+09036,9,Sant Andreu,60,Sant Andreu,20885.0
+09037,9,Sant Andreu,60,Sant Andreu,16369.0
+09038,9,Sant Andreu,60,Sant Andreu,21896.0
+09039,9,Sant Andreu,60,Sant Andreu,20648.0
+09040,9,Sant Andreu,60,Sant Andreu,22593.0
+09041,9,Sant Andreu,60,Sant Andreu,19686.0
+09042,9,Sant Andreu,60,Sant Andreu,23391.0
+09043,9,Sant Andreu,60,Sant Andreu,18938.0
+09044,9,Sant Andreu,60,Sant Andreu,21294.0
+09045,9,Sant Andreu,60,Sant Andreu,21327.0
+09046,9,Sant Andreu,60,Sant Andreu,23084.0
+09047,9,Sant Andreu,60,Sant Andreu,23112.0
+09048,9,Sant Andreu,60,Sant Andreu,20297.0
+09049,9,Sant Andreu,60,Sant Andreu,19119.0
+09050,9,Sant Andreu,60,Sant Andreu,22574.0
+09051,9,Sant Andreu,60,Sant Andreu,21913.0
+09052,9,Sant Andreu,60,Sant Andreu,20543.0
+09053,9,Sant Andreu,60,Sant Andreu,22896.0
+09054,9,Sant Andreu,60,Sant Andreu,22076.0
+09055,9,Sant Andreu,61,la Sagrera,16391.0
+09056,9,Sant Andreu,61,la Sagrera,20384.0
+09057,9,Sant Andreu,61,la Sagrera,17940.0
+09058,9,Sant Andreu,61,la Sagrera,21115.0
+09059,9,Sant Andreu,61,la Sagrera,19918.0
+09060,9,Sant Andreu,61,la Sagrera,19235.0
+09061,9,Sant Andreu,61,la Sagrera,23042.0
+09062,9,Sant Andreu,61,la Sagrera,20548.0
+09063,9,Sant Andreu,61,la Sagrera,22695.0
+09064,9,Sant Andreu,61,la Sagrera,21138.0
+09065,9,Sant Andreu,61,la Sagrera,18812.0
+09066,9,Sant Andreu,61,la Sagrera,22144.0
+09067,9,Sant Andreu,61,la Sagrera,17643.0
+09068,9,Sant Andreu,61,la Sagrera,20865.0
+09069,9,Sant Andreu,61,la Sagrera,19647.0
+09070,9,Sant Andreu,61,la Sagrera,14301.0
+09071,9,Sant Andreu,61,la Sagrera,17933.0
+09072,9,Sant Andreu,61,la Sagrera,15508.0
+09073,9,Sant Andreu,61,la Sagrera,20470.0
+09074,9,Sant Andreu,62,el Congrés i els Indians,18673.0
+09075,9,Sant Andreu,62,el Congrés i els Indians,18517.0
+09076,9,Sant Andreu,62,el Congrés i els Indians,18532.0
+09077,9,Sant Andreu,62,el Congrés i els Indians,19444.0
+09078,9,Sant Andreu,62,el Congrés i els Indians,19357.0
+09079,9,Sant Andreu,62,el Congrés i els Indians,21247.0
+09080,9,Sant Andreu,62,el Congrés i els Indians,19732.0
+09081,9,Sant Andreu,62,el Congrés i els Indians,19665.0
+09082,9,Sant Andreu,62,el Congrés i els Indians,20538.0
+09083,9,Sant Andreu,63,Navas,20600.0
+09084,9,Sant Andreu,63,Navas,22376.0
+09085,9,Sant Andreu,63,Navas,20513.0
+09086,9,Sant Andreu,63,Navas,20128.0
+09087,9,Sant Andreu,63,Navas,20913.0
+09088,9,Sant Andreu,63,Navas,18176.0
+09089,9,Sant Andreu,63,Navas,18826.0
+09090,9,Sant Andreu,63,Navas,18886.0
+09091,9,Sant Andreu,63,Navas,19860.0
+09092,9,Sant Andreu,63,Navas,20466.0
+09093,9,Sant Andreu,63,Navas,19907.0
+09094,9,Sant Andreu,63,Navas,20641.0
+09095,9,Sant Andreu,63,Navas,20584.0
+09156,9,Sant Andreu,61,la Sagrera,18420.0
+10001,10,Sant Martí,64,el Camp de l'Arpa del Clot,18115.0
+10002,10,Sant Martí,64,el Camp de l'Arpa del Clot,19652.0
+10003,10,Sant Martí,64,el Camp de l'Arpa del Clot,20151.0
+10004,10,Sant Martí,64,el Camp de l'Arpa del Clot,20005.0
+10005,10,Sant Martí,64,el Camp de l'Arpa del Clot,20692.0
+10006,10,Sant Martí,64,el Camp de l'Arpa del Clot,22200.0
+10007,10,Sant Martí,64,el Camp de l'Arpa del Clot,27541.0
+10008,10,Sant Martí,64,el Camp de l'Arpa del Clot,21057.0
+10009,10,Sant Martí,64,el Camp de l'Arpa del Clot,21580.0
+10010,10,Sant Martí,64,el Camp de l'Arpa del Clot,19845.0
+10011,10,Sant Martí,64,el Camp de l'Arpa del Clot,22760.0
+10012,10,Sant Martí,64,el Camp de l'Arpa del Clot,22713.0
+10013,10,Sant Martí,64,el Camp de l'Arpa del Clot,20644.0
+10014,10,Sant Martí,64,el Camp de l'Arpa del Clot,19708.0
+10015,10,Sant Martí,64,el Camp de l'Arpa del Clot,20610.0
+10016,10,Sant Martí,64,el Camp de l'Arpa del Clot,22313.0
+10017,10,Sant Martí,64,el Camp de l'Arpa del Clot,20714.0
+10018,10,Sant Martí,64,el Camp de l'Arpa del Clot,19907.0
+10019,10,Sant Martí,64,el Camp de l'Arpa del Clot,21278.0
+10020,10,Sant Martí,64,el Camp de l'Arpa del Clot,18214.0
+10021,10,Sant Martí,64,el Camp de l'Arpa del Clot,18979.0
+10022,10,Sant Martí,64,el Camp de l'Arpa del Clot,20373.0
+10023,10,Sant Martí,64,el Camp de l'Arpa del Clot,19146.0
+10024,10,Sant Martí,64,el Camp de l'Arpa del Clot,21487.0
+10025,10,Sant Martí,64,el Camp de l'Arpa del Clot,19525.0
+10026,10,Sant Martí,65,el Clot,21989.0
+10027,10,Sant Martí,65,el Clot,21539.0
+10028,10,Sant Martí,65,el Clot,20310.0
+10029,10,Sant Martí,65,el Clot,18998.0
+10030,10,Sant Martí,65,el Clot,19824.0
+10031,10,Sant Martí,65,el Clot,20420.0
+10032,10,Sant Martí,65,el Clot,21136.0
+10033,10,Sant Martí,65,el Clot,24252.0
+10034,10,Sant Martí,65,el Clot,19226.0
+10035,10,Sant Martí,65,el Clot,22776.0
+10036,10,Sant Martí,65,el Clot,24126.0
+10037,10,Sant Martí,65,el Clot,15165.0
+10038,10,Sant Martí,65,el Clot,22422.0
+10039,10,Sant Martí,65,el Clot,19207.0
+10040,10,Sant Martí,65,el Clot,19892.0
+10041,10,Sant Martí,65,el Clot,20947.0
+10042,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,18636.0
+10043,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,20145.0
+10044,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,21882.0
+10045,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,23642.0
+10046,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,23550.0
+10047,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,22921.0
+10048,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,24369.0
+10049,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,22281.0
+10050,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,23201.0
+10051,10,Sant Martí,67,la Vila Olímpica del Poblenou,24252.0
+10052,10,Sant Martí,67,la Vila Olímpica del Poblenou,32671.0
+10053,10,Sant Martí,67,la Vila Olímpica del Poblenou,37475.0
+10054,10,Sant Martí,67,la Vila Olímpica del Poblenou,31697.0
+10055,10,Sant Martí,67,la Vila Olímpica del Poblenou,36493.0
+10056,10,Sant Martí,68,el Poblenou,20321.0
+10057,10,Sant Martí,68,el Poblenou,20201.0
+10058,10,Sant Martí,68,el Poblenou,19460.0
+10059,10,Sant Martí,68,el Poblenou,23466.0
+10060,10,Sant Martí,68,el Poblenou,20493.0
+10061,10,Sant Martí,68,el Poblenou,23429.0
+10062,10,Sant Martí,68,el Poblenou,23564.0
+10063,10,Sant Martí,68,el Poblenou,23344.0
+10064,10,Sant Martí,68,el Poblenou,23764.0
+10065,10,Sant Martí,68,el Poblenou,23635.0
+10066,10,Sant Martí,68,el Poblenou,23146.0
+10067,10,Sant Martí,68,el Poblenou,30316.0
+10068,10,Sant Martí,68,el Poblenou,25950.0
+10069,10,Sant Martí,68,el Poblenou,26456.0
+10070,10,Sant Martí,68,el Poblenou,20971.0
+10071,10,Sant Martí,68,el Poblenou,24249.0
+10072,10,Sant Martí,68,el Poblenou,21663.0
+10073,10,Sant Martí,68,el Poblenou,19113.0
+10074,10,Sant Martí,68,el Poblenou,20212.0
+10075,10,Sant Martí,68,el Poblenou,19962.0
+10076,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,24632.0
+10077,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,28664.0
+10078,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,29057.0
+10079,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,23442.0
+10080,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,34144.0
+10081,10,Sant Martí,70,el Besòs i el Maresme,15482.0
+10082,10,Sant Martí,70,el Besòs i el Maresme,8743.0
+10083,10,Sant Martí,70,el Besòs i el Maresme,7845.0
+10084,10,Sant Martí,70,el Besòs i el Maresme,11161.0
+10085,10,Sant Martí,70,el Besòs i el Maresme,9929.0
+10086,10,Sant Martí,70,el Besòs i el Maresme,11718.0
+10087,10,Sant Martí,70,el Besòs i el Maresme,11812.0
+10088,10,Sant Martí,70,el Besòs i el Maresme,16678.0
+10089,10,Sant Martí,70,el Besòs i el Maresme,11986.0
+10090,10,Sant Martí,70,el Besòs i el Maresme,13782.0
+10091,10,Sant Martí,70,el Besòs i el Maresme,15540.0
+10092,10,Sant Martí,70,el Besòs i el Maresme,18661.0
+10093,10,Sant Martí,70,el Besòs i el Maresme,20047.0
+10094,10,Sant Martí,71,Provençals del Poblenou,22275.0
+10095,10,Sant Martí,71,Provençals del Poblenou,17226.0
+10096,10,Sant Martí,71,Provençals del Poblenou,23321.0
+10097,10,Sant Martí,71,Provençals del Poblenou,24217.0
+10098,10,Sant Martí,71,Provençals del Poblenou,21588.0
+10099,10,Sant Martí,71,Provençals del Poblenou,14114.0
+10100,10,Sant Martí,71,Provençals del Poblenou,17108.0
+10101,10,Sant Martí,71,Provençals del Poblenou,17168.0
+10102,10,Sant Martí,71,Provençals del Poblenou,16483.0
+10103,10,Sant Martí,71,Provençals del Poblenou,18445.0
+10104,10,Sant Martí,71,Provençals del Poblenou,22039.0
+10105,10,Sant Martí,72,Sant Martí de Provençals,19644.0
+10106,10,Sant Martí,72,Sant Martí de Provençals,18532.0
+10107,10,Sant Martí,72,Sant Martí de Provençals,23574.0
+10108,10,Sant Martí,72,Sant Martí de Provençals,18039.0
+10109,10,Sant Martí,72,Sant Martí de Provençals,16702.0
+10110,10,Sant Martí,72,Sant Martí de Provençals,16699.0
+10111,10,Sant Martí,72,Sant Martí de Provençals,17449.0
+10112,10,Sant Martí,72,Sant Martí de Provençals,22159.0
+10113,10,Sant Martí,72,Sant Martí de Provençals,17512.0
+10114,10,Sant Martí,72,Sant Martí de Provençals,14879.0
+10115,10,Sant Martí,72,Sant Martí de Provençals,16106.0
+10116,10,Sant Martí,72,Sant Martí de Provençals,15408.0
+10117,10,Sant Martí,72,Sant Martí de Provençals,17062.0
+10118,10,Sant Martí,72,Sant Martí de Provençals,22221.0
+10119,10,Sant Martí,72,Sant Martí de Provençals,15422.0
+10120,10,Sant Martí,72,Sant Martí de Provençals,16740.0
+10121,10,Sant Martí,72,Sant Martí de Provençals,15960.0
+10122,10,Sant Martí,72,Sant Martí de Provençals,20624.0
+10123,10,Sant Martí,73,la Verneda i la Pau,18055.0
+10124,10,Sant Martí,73,la Verneda i la Pau,18929.0
+10125,10,Sant Martí,73,la Verneda i la Pau,16671.0
+10126,10,Sant Martí,73,la Verneda i la Pau,18198.0
+10127,10,Sant Martí,73,la Verneda i la Pau,19550.0
+10128,10,Sant Martí,73,la Verneda i la Pau,19480.0
+10129,10,Sant Martí,73,la Verneda i la Pau,19594.0
+10130,10,Sant Martí,73,la Verneda i la Pau,18374.0
+10131,10,Sant Martí,73,la Verneda i la Pau,21949.0
+10132,10,Sant Martí,73,la Verneda i la Pau,16282.0
+10133,10,Sant Martí,73,la Verneda i la Pau,15105.0
+10134,10,Sant Martí,73,la Verneda i la Pau,15762.0
+10135,10,Sant Martí,73,la Verneda i la Pau,16180.0
+10136,10,Sant Martí,73,la Verneda i la Pau,16058.0
+10137,10,Sant Martí,73,la Verneda i la Pau,14226.0
+10138,10,Sant Martí,73,la Verneda i la Pau,12777.0
+10139,10,Sant Martí,73,la Verneda i la Pau,13484.0
+10140,10,Sant Martí,73,la Verneda i la Pau,13659.0
+10141,10,Sant Martí,73,la Verneda i la Pau,14315.0
+10142,10,Sant Martí,73,la Verneda i la Pau,13223.0
+10143,10,Sant Martí,73,la Verneda i la Pau,15051.0
+10234,10,Sant Martí,65,el Clot,19421.0
+10235,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,17305.0
+10236,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,17814.0
+10237,10,Sant Martí,71,Provençals del Poblenou,15888.0

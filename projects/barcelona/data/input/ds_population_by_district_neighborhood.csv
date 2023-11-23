@@ -1,4 +1,4 @@
-aeb_id,district_id,district,neighborhood,population
+aeb_id,district_id,district_desc,neighborhood_desc,population
 1,1,Ciutat Vella,el Raval,2427.0
 2,1,Ciutat Vella,el Raval,6257.0
 3,1,Ciutat Vella,el Raval,5736.0
