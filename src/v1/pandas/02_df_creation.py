@@ -17,19 +17,14 @@ args:
     ensuring that the original data is not modified.
 """
 
-# create DataFrame from arrays:
-df0 = pd.DataFrame({
-    'Number': range(1500),
-    'Squared': [i**2 for i in range(1500)]
-})
+# create DataFrame from arrays: (each column is actually a pandas Series)
+df0 = pd.DataFrame({"Number": range(1500), "Squared": [i**2 for i in range(1500)]})
 #   Number	Squared
-0	    0	    0
-1	    1	    1
-2	    2	    4
-3	    3	    9
+# 0	    0	    0
+# 1	    1	    1
+# 2	    2	    4
+# 3	    3	    9
 
-
-# each column is actually a pandas Series
 df1 = pd.DataFrame(randn(5, 4))
 #           0         1         2         3
 # 0  2.706850  0.628133  0.907969  0.503826
@@ -37,6 +32,16 @@ df1 = pd.DataFrame(randn(5, 4))
 # 2 -2.018168  0.740122  0.528813 -0.589001
 # 3  0.188695 -0.758872 -0.933237  0.955057
 # 4  0.190794  1.978757  2.605967  0.683509
+
+# create DataFrame from Series and assign name to index:
+s = pd.Series(data=[10, 20, 30, 40])
+df10 = s.to_frame("values")
+df10.index.name = "ind"
+# ind      values
+# 0        10
+# 1        20
+# 2        30
+# 3        40
 
 df1.shape
 # (5, 4) => this is why index=0 is rows and index=1 is columns
@@ -62,9 +67,8 @@ df1.info()  # DataFrame overview
 # dtypes: float64(4)
 # memory usage: 292.0 bytes
 
-np.random.seed(
-    101
-)  # to force the same random values (repeat every time a random num is generated)
+# seed: to force the same random values (repeat every time a random num is generated)
+np.random.seed(101)
 df = pd.DataFrame(
     data=randn(5, 4), index=["A", "B", "C", "D", "E"], columns=["W", "X", "Y", "Z"]
 )
