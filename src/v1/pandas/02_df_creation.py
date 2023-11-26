@@ -17,7 +17,7 @@ args:
     ensuring that the original data is not modified.
 """
 
-# create DataFrame from arrays: (each column is actually a pandas Series)
+# create DataFrame from arrays:
 df0 = pd.DataFrame({"Number": range(1500), "Squared": [i**2 for i in range(1500)]})
 #   Number	Squared
 # 0	    0	    0
@@ -85,8 +85,18 @@ df["W"]
 # C   -2.018168
 # D    0.188695
 # E    0.190794
+
+# show column type: every DataFrame column is always a pandas Series
 type(df["W"])
 # <class 'pandas.core.series.Series'>
+
+# show column type (for strings, it will return object type: `dtype('O')`)
+df['W'].dtypes
+# dtypes: float64(4)  # (4) -> means there are 4 columns with this type
+
+# show column type based on a value
+print(type(df['W'].iloc[0]))
+# dtypes: float64(4) 
 
 # show a list of columns -> returns a DataSet
 df[["W", "Z"]]
