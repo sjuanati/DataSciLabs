@@ -35,8 +35,7 @@ df1 = pd.DataFrame(randn(5, 4))
 
 # create DataFrame from Series and assign name to index:
 s = pd.Series(data=[10, 20, 30, 40])
-df10 = s.to_frame("values")
-df10.index.name = "ind"
+df10 = s.to_frame("values").rename_axis('ind')
 # ind      values
 # 0        10
 # 1        20
