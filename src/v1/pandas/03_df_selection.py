@@ -68,7 +68,17 @@ df_state.loc["CA"]
 # X    0.628133
 # Y    0.907969
 # Z    0.503826
+
 # To get the result as the original column, keep the result as a DataFrame
 df_state.loc[["CA"]]
 #               W         X         Y         Z
 # CA      2.70685  0.628133  0.907969  0.503826
+
+# move existing index as a column and create (reset) a new index
+df_state.reset_index(inplace=True)
+#   States         W         X         Y         Z
+# 0     CA  2.706850  0.628133  0.907969  0.503826
+# 1     NY  0.651118 -0.319318 -0.848077  0.605965
+# 2     WY -2.018168  0.740122  0.528813 -0.589001
+# 3     OR  0.188695 -0.758872 -0.933237  0.955057
+# 4     CO  0.190794  1.978757  2.605967  0.683509

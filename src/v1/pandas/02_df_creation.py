@@ -95,7 +95,7 @@ df['W'].dtypes
 # dtypes: float64(4)  # (4) -> means there are 4 columns with this type
 
 # show column type based on a value
-print(type(df['W'].iloc[0]))
+type(df['W'].iloc[0])
 # dtypes: float64(4) 
 
 # show a list of columns -> returns a DataSet
