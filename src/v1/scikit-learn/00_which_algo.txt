@@ -1,0 +1,22 @@
+SVC: Support Vector Classifier, used for classification tasks.
+GMM: Gaussian Mixture Model, used for clustering by assuming data 
+    is generated from a mixture of several Gaussian distributions.
+VBGMM: Variational Bayesian Gaussian Mixture Model, a variant of GMM
+    that uses variational inference.
+PCA: Principal Component Analysis, used for dimensionality reduction by
+    transforming data into a smaller set of variables (principal components).
+LLE: Locally Linear Embedding, another dimensionality reduction technique
+    that preserves local neighborhoods.
+SGD: Stochastic Gradient Descent. This is an optimization algorithm used to
+    minimize a function by iteratively moving in the direction of steepest
+    descent as defined by the negative of the gradient. In the context of
+    machine learning, SGD is often used with various types of models (like
+    linear models) for both classification and regression tasks.
+SVR: Support Vector Regression. This is a type of Support Vector Machine (SVM)
+    that is used for regression tasks. SVR uses the same principles as SVC,
+    which involves finding a hyperplane in a multidimensional space that best
+    fits the data. However, for SVR, the fit is not about dividing the space
+    into classes, but rather about fitting as many instances as possible within
+    a certain threshold from the actual continuous values. The 'kernel' specifies
+    the type of hyperplane used to segment the data, with 'rbf' and 'linear'
+    being common choices.
