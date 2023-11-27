@@ -94,7 +94,7 @@ df.isnull().sum().sum()
 # 0
 
 # rename column (using inplace to update the df directly)
-df.rename(columns={'col3': 'col5'}, inplace=True)
+df.rename(columns={"col3": "col5"}, inplace=True)
 #    col1  col2 col5
 # 0     1   444  abc
 # 1     2   555  def
@@ -126,10 +126,18 @@ df = pd.DataFrame(data)
 # 4  bar  one  x  4
 # 5  bar  one  y  1
 
-df_pivot = df.pivot_table(values="D", index=["A", "B"], columns=["C"])
+# show columns as values from column C, take values from D and use columns A & B as indices
+df.pivot_table(values="D", index=["A", "B"], columns=["C"])
 # C          x    y
 # A   B
 # bar one  4.0  1.0
 #     two  NaN  5.0
 # foo one  1.0  3.0
 #     two  2.0  NaN
+
+# pivot + aggregate
+df.pivot_table(values="D", index="A", columns=["C"], aggfunc="sum")
+# C    x  y
+# A
+# bar  4  6
+# foo  3  3
