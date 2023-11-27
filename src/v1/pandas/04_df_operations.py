@@ -93,6 +93,14 @@ df.isnull().sum()
 df.isnull().sum().sum()
 # 0
 
+# rename column (using inplace to update the df directly)
+df.rename(columns={'col3': 'col5'}, inplace=True)
+#    col1  col2 col5
+# 0     1   444  abc
+# 1     2   555  def
+# 2     3   666  ghi
+# 3     4   444  xyz
+
 """
 sign: pandas.DataFrame.pivot(self, index=None, columns=None, values=None)
 info: reshapes data based on column values, essentially turning unique values from one column
