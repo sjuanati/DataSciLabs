@@ -66,6 +66,17 @@ df1.info()  # DataFrame overview
 # dtypes: float64(4)
 # memory usage: 292.0 bytes
 
+df1.describe() # DataFrame figures on numeric fields
+#               0         1         2         3
+# count  5.000000  5.000000  5.000000  5.000000
+# mean  -0.318858  0.583606 -0.019461  0.306431
+# std    1.332007  0.391326  1.487830  0.702163
+# min   -2.034974  0.189756 -1.366002 -0.414400
+# 25%   -0.824430  0.191037 -1.000617 -0.396331
+# 50%   -0.802687  0.593870 -0.621900  0.405658
+# 75%    0.999963  0.940041  0.602127  0.779087
+# max    1.067838  1.003325  2.289089  1.158140
+
 # seed: to force the same random values (repeat every time a random num is generated)
 np.random.seed(101)
 df = pd.DataFrame(
