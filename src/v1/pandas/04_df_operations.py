@@ -141,3 +141,34 @@ df.pivot_table(values="D", index="A", columns=["C"], aggfunc="sum")
 # A
 # bar  4  6
 # foo  3  3
+
+df = pd.DataFrame(
+    {
+        "A": [True, False, True, False],
+        "B": ["Yes", "No", "Yes", "No"],
+        "C": ["1", "2", "3", "4"],
+        "D": ["Red", "Blue", "Blue", "Orange"]
+    }
+)
+
+# Convert boolean to int (True to 1, False to 0)
+df["E"] = df["A"].astype(int)
+
+# Convert int to float
+df["F"] = df["E"].astype(float)
+
+# Convert string to integer based on conditions
+df["G"] = df["B"].apply(lambda x: 1 if x == "Yes" else 0)
+
+# Convert string number to numeric
+df['H'] = pd.to_numeric(df['C'], errors='coerce') # replace error with 'NaN'
+
+# Convert string to category
+df['I'] = df["D"].astype('category')
+
+#        A    B  C       D  E    F  G  H       I
+# 0   True  Yes  1     Red  1  1.0  1  1     Red
+# 1  False   No  2    Blue  0  0.0  0  2    Blue
+# 2   True  Yes  3    Blue  1  1.0  1  3    Blue
+# 3  False   No  4  Orange  0  0.0  0  4  Orange
+
