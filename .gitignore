@@ -1,11 +1,14 @@
 # General
-venv
 .env
 .DS_Store
 __pycache__/
 /logs
 *.ipynb_checkpoints
 logs.txt
+
+# Environments
+venv
+vtensorflow
 
 # Project - Stablecoins
 projects/stablecoins/data
