@@ -1,1 +1,8 @@
-pip3 install tensorflow # requires python 3.11 :/
+# tensorflow currently runs on Python 3.8–3.11 (not 3.12)
+pip3 install pandas
+pip3 install jupyter
+pip3 install ipywidgets
+pip3 install matplotlib
+pip3 install tensorflow
+pip3 install tensorflow-datasets
+pip3 install scikit-learn
