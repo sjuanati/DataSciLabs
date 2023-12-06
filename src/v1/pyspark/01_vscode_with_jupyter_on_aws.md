@@ -25,9 +25,9 @@ source ~/.bashrc
 4) Set Security Group (at least limit port):
 ```
 IP version	Protocol	Port range
-IPv4		TCP			3011
-IPv6		TCP			3011
-IPv4		SSH			22
+IPv4		TCP		3011
+IPv6		TCP		3011
+IPv4		SSH		22
 ```
 
 5) Start jupyter server:
@@ -50,15 +50,15 @@ Host spark-ec2-instance
     User ubuntu
     IdentityFile /Users/userX/.ssh/spark_key.pem
 ```
-1) Install 'Remote - SSH extension' in VSCode and add server:
+2) Install 'Remote - SSH extension' in VSCode and add server:
 
 	Open a remote window -> Connect to Host... -> Add New SSH Host... ->
 	`ubuntu@ec2-...compute.amazonaws.com` 
 
-2) Update config file In VSCode:
+3) Update config file In VSCode:
 
    	settings -> remote.ssh -> Config File: `/Users/userX/.ssh/config`
 
-3) Open a new jupyter notebook, and when running it:
+4) Open a new jupyter notebook, and when running it:
 
 	Select Another Kernel... -> Existing Jupyter Server -> `http://ec2-...compute.amazonaws.com:3011/tree?token=your_permanent_token`
