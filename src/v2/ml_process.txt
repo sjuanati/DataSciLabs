@@ -1,0 +1,47 @@
+Machine Learning Process
+
+    Data Pre-Processing
+        - Import the data
+        - Clean the data
+        - Split into training % test sets
+
+    Modelling
+        - Build the model
+        - Train the model
+        - Make predictions
+
+    Evaluation
+        - Calculate performance metrics
+        - Make a veredict
+
+
+Train/Test sets (eg. 100 records)
+
+    Train 80% -> 80 records to build the model
+    
+    Test 20%  -> 20 records to apply to the model and predict
+                 based on the target values (these records are
+                 not included in the training)
+
+Feature Scaling
+
+    Normalization: [0;1] based on min-max values. When a bounded range is needed
+    
+    Standardization: [-3;+3] based on avg & std dev. For data normally distributed
+
+
+
+
+
+E.g. Normalization:
+
+            Salary      Age
+person 1    $70,000     45
+person 2    $60,000     44
+person 3    $52,000     40
+
+Normalization = (X - Xmin) / (Xmax - Xmin)
+Normalization person 2 = 60000 - 52000 / 70000 - 52000 = 8000 / 18000 = 0.44
+
+Standardisation = (X - mean(X)) / std.dev(X)
+std.dev = squared root of the deviation
