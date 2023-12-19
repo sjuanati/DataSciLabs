@@ -19,3 +19,6 @@ projects/barcelona/data/input/*
 projects/barcelona/data/output/*
 !projects/barcelona/data/input/.gitkeep
 !projects/barcelona/data/output/.gitkeep
+
+# v2
+src/v2/08_deep_learning/filez_cats_dogs
