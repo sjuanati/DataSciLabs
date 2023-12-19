@@ -13,6 +13,7 @@ cycler==0.12.1
 debugpy==1.8.0
 decorator==5.1.1
 dm-tree==0.1.8
+et-xmlfile==1.1.0
 etils==1.5.2
 executing==2.0.1
 flatbuffers==23.5.26
@@ -48,6 +49,7 @@ nest-asyncio==1.5.8
 nltk==3.8.1
 numpy==1.26.2
 oauthlib==3.2.2
+openpyxl==3.1.2
 opt-einsum==3.3.0
 packaging==23.2
 pandas==2.1.3
