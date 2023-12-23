@@ -4,6 +4,7 @@ array-record==0.4.1
 asttokens==2.4.1
 astunparse==1.6.3
 cachetools==5.3.2
+catboost==1.2.2
 certifi==2023.11.17
 charset-normalizer==3.3.2
 click==8.1.7
@@ -24,6 +25,7 @@ google-auth==2.25.1
 google-auth-oauthlib==1.1.0
 google-pasta==0.2.0
 googleapis-common-protos==1.61.0
+graphviz==0.20.1
 grpcio==1.59.3
 h5py==3.10.0
 idna==3.6
@@ -57,6 +59,7 @@ parso==0.8.3
 pexpect==4.9.0
 Pillow==10.1.0
 platformdirs==4.1.0
+plotly==5.18.0
 promise==2.3
 prompt-toolkit==3.0.41
 protobuf==3.20.3
@@ -79,6 +82,7 @@ scipy==1.11.4
 seaborn==0.13.0
 six==1.16.0
 stack-data==0.6.3
+tenacity==8.2.3
 tensorboard==2.15.1
 tensorboard-data-server==0.7.2
 tensorflow==2.15.0
