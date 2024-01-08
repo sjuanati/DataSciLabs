@@ -12,3 +12,4 @@ pip3 install nltk
 pip3 install openpyxl # to load excel datasets
 pip3 install xgboost
 pip3 install catboost
+pip3 install Jinja2 # to show df in a given format (thousand separator, 2 decimals)
