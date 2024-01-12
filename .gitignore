@@ -13,6 +13,7 @@ vtensorflow
 # Project - Stablecoins
 projects/stablecoins/data
 *leaked*
+*submission*
 
 # Project - Barcelona
 # Ignore everything in these directories except the .gitkeep file
