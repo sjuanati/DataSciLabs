@@ -1,0 +1,2 @@
+file 'train.csv' has 121.8 Mb -> can be downloaded at:
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?select=train.csv

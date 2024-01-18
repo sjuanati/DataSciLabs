@@ -10,10 +10,13 @@ logs.txt
 venv
 vtensorflow
 
-# Project - Stablecoins
+# projects - stablecoins
 projects/stablecoins/data
+
+# projects - kaggle
 *leaked*
 *submission*
+projects/kaggle/03_store_sales/data/train.csv
 
 # Project - Barcelona
 # Ignore everything in these directories except the .gitkeep file

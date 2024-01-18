@@ -15,3 +15,4 @@ pip3 install catboost
 pip3 install Jinja2 # to show df in a given format (thousand separator, 2 decimals)
 brew install libomp # required for lightgbm
 pip3 install lightgbm
+pip3 install statsmodels
