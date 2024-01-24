@@ -1,0 +1,5 @@
+Goal:
+It's end of the financial year and that means time for annual bonuses!
+The store operates in 3 regions and only the top-performing employee in each region qualifies for a bonus.
+Find out which 3 employees are elegible to get a bonus for this year.
+Employees are measured on total value of sales ($).

@@ -27,3 +27,6 @@ projects/barcelona/data/output/*
 
 # v2
 src/v2/08_deep_learning/filez_cats_dogs
+
+# Tableau (temporary files)
+.~*.twbr
