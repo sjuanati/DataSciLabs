@@ -26,7 +26,8 @@ projects/barcelona/data/output/*
 !projects/barcelona/data/output/.gitkeep
 
 # v2
-src/v2/08_deep_learning/filez_cats_dogs
+src/01_python/v2/08_deep_learning/filez_cats_dogs
 
 # Tableau (temporary files)
 .~*.twbr
+src/02_tableau/v1/04_join_blend/data/P1-Brazilian-E-Commerce-Dataset
