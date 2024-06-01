@@ -17,6 +17,7 @@ projects/stablecoins/data
 *leaked*
 *submission*
 projects/kaggle/03_store_sales/data/train.csv
+projects/cme/data
 
 # Project - Barcelona
 # Ignore everything in these directories except the .gitkeep file
