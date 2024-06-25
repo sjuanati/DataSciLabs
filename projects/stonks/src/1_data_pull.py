@@ -57,8 +57,6 @@ def show_ask_bid_v2(symbol):
     
     return None, None
 
-import requests
-
 def show_ask_bid_v3(symbol):
     # Define the time window for fetching quotes
     start_time = 1718877600000000000  # 10:00 AM (exclude open volatility)
@@ -83,11 +81,11 @@ def show_ask_bid_v3(symbol):
                 price_diff = ask_price - bid_price
                 
                 # Check if the difference is less than 1 and non-negative
-                if 0 <= price_diff < 1:
+                if 0 < price_diff < 1:
                     return ask_price, bid_price
                 
                 # Otherwise, track the record with the smallest non-negative difference
-                if 0 <= price_diff < min_diff:
+                if 0 < price_diff < min_diff:
                     min_diff = price_diff
                     best_record = (ask_price, bid_price)
         
@@ -99,9 +97,6 @@ def show_ask_bid_v3(symbol):
         print(f"API call failed for {symbol} with status code: {response.status_code}")
     
     return None, None
-
-
-
 
 def show_avg_volume(symbol):
     url = f"https://api.polygon.io/v2/aggs/ticker/{symbol}/range/1/day/2024-06-07/2024-06-21?adjusted=true&sort=asc&apiKey={api_key}"
@@ -121,7 +116,6 @@ def show_avg_volume(symbol):
             f"Volume data API call failed for {symbol}. Status code: {response.status_code}"
         )
     return None
-
 
 def show_market_cap(symbol):
     url = f"https://api.polygon.io/v3/reference/tickers/{symbol}?date=2024-06-20&apiKey={api_key}"
